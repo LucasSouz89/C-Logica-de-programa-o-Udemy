@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\bin\Debug\net8.0\Problema1.exe
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\bin\Debug\net8.0\Problema1.deps.json
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\bin\Debug\net8.0\Problema1.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\bin\Debug\net8.0\Problema1.dll
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\bin\Debug\net8.0\Problema1.pdb
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\Problema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\Problema1.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\Problema1.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\Problema1.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\Problema1.dll
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\refint\Problema1.dll
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\Problema1.pdb
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\Problema1.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 2\Problema1\Problema1\obj\Debug\net8.0\ref\Problema1.dll

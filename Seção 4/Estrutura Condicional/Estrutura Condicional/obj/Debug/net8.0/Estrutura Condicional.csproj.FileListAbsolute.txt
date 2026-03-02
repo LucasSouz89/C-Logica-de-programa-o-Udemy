@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.exe
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.deps.json
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.dll
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\bin\Debug\net8.0\Estrutura Condicional.pdb
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.dll
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\refint\Estrutura Condicional.dll
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.pdb
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\Estrutura Condicional.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 4\Estrutura Condicional\Estrutura Condicional\obj\Debug\net8.0\ref\Estrutura Condicional.dll

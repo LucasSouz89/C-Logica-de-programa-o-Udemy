@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.exe
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.deps.json
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.dll
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.pdb
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.dll
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\refint\ProcessamentoDeDados.dll
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.pdb
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 2\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ref\ProcessamentoDeDados.dll

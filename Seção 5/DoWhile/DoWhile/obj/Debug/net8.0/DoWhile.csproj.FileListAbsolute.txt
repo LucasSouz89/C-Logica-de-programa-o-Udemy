@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.exe
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.dll
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.dll
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 5\DoWhile\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll

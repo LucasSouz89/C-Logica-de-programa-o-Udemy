@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\bin\Debug\net8.0\UriProblemas.exe
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\bin\Debug\net8.0\UriProblemas.deps.json
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\bin\Debug\net8.0\UriProblemas.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\bin\Debug\net8.0\UriProblemas.dll
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\bin\Debug\net8.0\UriProblemas.pdb
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\UriProblemas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\UriProblemas.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\UriProblemas.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\UriProblemas.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\UriProblemas.dll
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\refint\UriProblemas.dll
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\UriProblemas.pdb
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\UriProblemas.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 2\UriProblemas\UriProblemas\obj\Debug\net8.0\ref\UriProblemas.dll

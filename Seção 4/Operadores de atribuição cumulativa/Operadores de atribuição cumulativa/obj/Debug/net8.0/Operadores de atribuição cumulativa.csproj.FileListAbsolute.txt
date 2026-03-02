@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\bin\Debug\net8.0\Operadores de atribuição cumulativa.exe
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\bin\Debug\net8.0\Operadores de atribuição cumulativa.deps.json
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\bin\Debug\net8.0\Operadores de atribuição cumulativa.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\bin\Debug\net8.0\Operadores de atribuição cumulativa.dll
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\bin\Debug\net8.0\Operadores de atribuição cumulativa.pdb
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\Operadores de atribuição cumulativa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\Operadores de atribuição cumulativa.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\Operadores de atribuição cumulativa.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\Operadores de atribuição cumulativa.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\Operadores de atribuição cumulativa.dll
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\refint\Operadores de atribuição cumulativa.dll
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\Operadores de atribuição cumulativa.pdb
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\Operadores de atribuição cumulativa.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 4\Operadores de atribuição cumulativa\Operadores de atribuição cumulativa\obj\Debug\net8.0\ref\Operadores de atribuição cumulativa.dll

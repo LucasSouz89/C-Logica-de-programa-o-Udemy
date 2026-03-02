@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\bin\Debug\net8.0\EntradaDeDadosPArt1.exe
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\bin\Debug\net8.0\EntradaDeDadosPArt1.deps.json
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\bin\Debug\net8.0\EntradaDeDadosPArt1.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\bin\Debug\net8.0\EntradaDeDadosPArt1.dll
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\bin\Debug\net8.0\EntradaDeDadosPArt1.pdb
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\EntradaDeDadosPArt1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\EntradaDeDadosPArt1.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\EntradaDeDadosPArt1.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\EntradaDeDadosPArt1.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\EntradaDeDadosPArt1.dll
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\refint\EntradaDeDadosPArt1.dll
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\EntradaDeDadosPArt1.pdb
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\EntradaDeDadosPArt1.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 2\EntradaDeDadosPArt1\EntradaDeDadosPArt1\obj\Debug\net8.0\ref\EntradaDeDadosPArt1.dll

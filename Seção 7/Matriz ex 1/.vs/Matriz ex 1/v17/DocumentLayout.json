@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 7\\Matriz ex 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC39E94-F621-4AE8-8195-8E062F87E916}|Matriz ex 1\\Matriz ex 1.csproj|d:\\udemy\\c# logica de programa\u00E7\u00E3o\\se\u00E7\u00E3o 7\\matriz ex 1\\matriz ex 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC39E94-F621-4AE8-8195-8E062F87E916}|Matriz ex 1\\Matriz ex 1.csproj|solutionrelative:matriz ex 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 7\\Matriz ex 1\\Matriz ex 1\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz ex 1\\Program.cs",
+              "ToolTip": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 7\\Matriz ex 1\\Matriz ex 1\\Program.cs",
+              "RelativeToolTip": "Matriz ex 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:35:14.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

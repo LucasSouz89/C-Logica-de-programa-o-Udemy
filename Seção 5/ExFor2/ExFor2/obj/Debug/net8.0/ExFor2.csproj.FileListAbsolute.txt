@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\bin\Debug\net8.0\ExFor2.exe
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\bin\Debug\net8.0\ExFor2.deps.json
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\bin\Debug\net8.0\ExFor2.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\bin\Debug\net8.0\ExFor2.dll
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\bin\Debug\net8.0\ExFor2.pdb
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\ExFor2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\ExFor2.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\ExFor2.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\ExFor2.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\ExFor2.dll
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\refint\ExFor2.dll
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\ExFor2.pdb
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\ExFor2.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 5\ExFor2\ExFor2\obj\Debug\net8.0\ref\ExFor2.dll

@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.exe
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.deps.json
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.dll
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.pdb
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.dll
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\refint\SaidaDeDados.dll
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.pdb
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 2\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\ref\SaidaDeDados.dll

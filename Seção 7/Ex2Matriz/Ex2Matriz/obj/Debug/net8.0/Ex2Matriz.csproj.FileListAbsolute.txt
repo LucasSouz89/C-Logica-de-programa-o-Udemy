@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\bin\Debug\net8.0\Ex2Matriz.exe
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\bin\Debug\net8.0\Ex2Matriz.deps.json
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\bin\Debug\net8.0\Ex2Matriz.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\bin\Debug\net8.0\Ex2Matriz.dll
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\bin\Debug\net8.0\Ex2Matriz.pdb
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\Ex2Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\Ex2Matriz.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\Ex2Matriz.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\Ex2Matriz.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\Ex2Matriz.dll
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\refint\Ex2Matriz.dll
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\Ex2Matriz.pdb
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\Ex2Matriz.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 7\Ex2Matriz\Ex2Matriz\obj\Debug\net8.0\ref\Ex2Matriz.dll

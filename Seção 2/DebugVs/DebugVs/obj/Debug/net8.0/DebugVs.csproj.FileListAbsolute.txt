@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\bin\Debug\net8.0\DebugVs.exe
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\bin\Debug\net8.0\DebugVs.deps.json
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\bin\Debug\net8.0\DebugVs.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\bin\Debug\net8.0\DebugVs.dll
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\bin\Debug\net8.0\DebugVs.pdb
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\DebugVs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\DebugVs.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\DebugVs.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\DebugVs.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\DebugVs.dll
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\refint\DebugVs.dll
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\DebugVs.pdb
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\DebugVs.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 2\DebugVs\DebugVs\obj\Debug\net8.0\ref\DebugVs.dll

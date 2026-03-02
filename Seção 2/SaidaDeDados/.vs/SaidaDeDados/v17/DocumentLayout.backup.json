@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 2\\SaidaDeDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83555700-38F0-49B7-B518-5DCD3A091F63}|SaidaDeDados\\SaidaDeDados.csproj|d:\\udemy\\c# logica de programa\u00E7\u00E3o\\se\u00E7\u00E3o 2\\saidadedados\\saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83555700-38F0-49B7-B518-5DCD3A091F63}|SaidaDeDados\\SaidaDeDados.csproj|solutionrelative:saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 2\\SaidaDeDados\\SaidaDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "SaidaDeDados\\Program.cs",
+              "ToolTip": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 2\\SaidaDeDados\\SaidaDeDados\\Program.cs",
+              "RelativeToolTip": "SaidaDeDados\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:08:42.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

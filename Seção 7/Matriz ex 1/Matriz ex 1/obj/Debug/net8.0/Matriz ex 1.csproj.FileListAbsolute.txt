@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\bin\Debug\net8.0\Matriz ex 1.exe
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\bin\Debug\net8.0\Matriz ex 1.deps.json
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\bin\Debug\net8.0\Matriz ex 1.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\bin\Debug\net8.0\Matriz ex 1.dll
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\bin\Debug\net8.0\Matriz ex 1.pdb
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\Matriz ex 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\Matriz ex 1.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\Matriz ex 1.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\Matriz ex 1.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\Matriz ex 1.dll
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\refint\Matriz ex 1.dll
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\Matriz ex 1.pdb
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\Matriz ex 1.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 7\Matriz ex 1\Matriz ex 1\obj\Debug\net8.0\ref\Matriz ex 1.dll

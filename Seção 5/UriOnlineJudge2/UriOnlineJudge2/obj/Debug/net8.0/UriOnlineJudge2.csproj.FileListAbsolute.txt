@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\bin\Debug\net8.0\UriOnlineJudge2.exe
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\bin\Debug\net8.0\UriOnlineJudge2.deps.json
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\bin\Debug\net8.0\UriOnlineJudge2.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\bin\Debug\net8.0\UriOnlineJudge2.dll
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\bin\Debug\net8.0\UriOnlineJudge2.pdb
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\UriOnlineJudge2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\UriOnlineJudge2.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\UriOnlineJudge2.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\UriOnlineJudge2.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\UriOnlineJudge2.dll
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\refint\UriOnlineJudge2.dll
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\UriOnlineJudge2.pdb
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\UriOnlineJudge2.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 5\UriOnlineJudge2\UriOnlineJudge2\obj\Debug\net8.0\ref\UriOnlineJudge2.dll

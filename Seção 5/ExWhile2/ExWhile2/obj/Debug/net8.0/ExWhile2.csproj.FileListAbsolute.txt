@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\bin\Debug\net8.0\ExWhile2.exe
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\bin\Debug\net8.0\ExWhile2.deps.json
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\bin\Debug\net8.0\ExWhile2.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\bin\Debug\net8.0\ExWhile2.dll
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\bin\Debug\net8.0\ExWhile2.pdb
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\ExWhile2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\ExWhile2.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\ExWhile2.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\ExWhile2.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\ExWhile2.dll
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\refint\ExWhile2.dll
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\ExWhile2.pdb
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\ExWhile2.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 5\ExWhile2\ExWhile2\obj\Debug\net8.0\ref\ExWhile2.dll

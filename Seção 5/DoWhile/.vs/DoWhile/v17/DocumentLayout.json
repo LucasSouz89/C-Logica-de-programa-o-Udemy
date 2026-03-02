@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 5\\DoWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B89424-E479-4A01-AE3B-056EB563C497}|DoWhile\\DoWhile.csproj|d:\\udemy\\c# logica de programa\u00E7\u00E3o\\se\u00E7\u00E3o 5\\dowhile\\dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B89424-E479-4A01-AE3B-056EB563C497}|DoWhile\\DoWhile.csproj|solutionrelative:dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 5\\DoWhile\\DoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "DoWhile\\Program.cs",
+              "ToolTip": "D:\\Udemy\\c# logica de programa\u00E7\u00E3o\\Se\u00E7\u00E3o 5\\DoWhile\\DoWhile\\Program.cs",
+              "RelativeToolTip": "DoWhile\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T14:03:07.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

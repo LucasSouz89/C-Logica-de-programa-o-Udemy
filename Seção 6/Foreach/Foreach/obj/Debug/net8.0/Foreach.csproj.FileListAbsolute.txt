@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\bin\Debug\net8.0\Foreach.exe
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\bin\Debug\net8.0\Foreach.deps.json
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\bin\Debug\net8.0\Foreach.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\bin\Debug\net8.0\Foreach.dll
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\bin\Debug\net8.0\Foreach.pdb
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\Foreach.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\Foreach.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\Foreach.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\Foreach.dll
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\refint\Foreach.dll
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\Foreach.pdb
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\Foreach.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 6\Foreach\Foreach\obj\Debug\net8.0\ref\Foreach.dll

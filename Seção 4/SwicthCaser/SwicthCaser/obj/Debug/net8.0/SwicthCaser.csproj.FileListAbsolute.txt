@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\bin\Debug\net8.0\SwicthCaser.exe
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\bin\Debug\net8.0\SwicthCaser.deps.json
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\bin\Debug\net8.0\SwicthCaser.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\bin\Debug\net8.0\SwicthCaser.dll
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\bin\Debug\net8.0\SwicthCaser.pdb
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\SwicthCaser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\SwicthCaser.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\SwicthCaser.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\SwicthCaser.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\SwicthCaser.dll
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\refint\SwicthCaser.dll
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\SwicthCaser.pdb
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\SwicthCaser.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 4\SwicthCaser\SwicthCaser\obj\Debug\net8.0\ref\SwicthCaser.dll

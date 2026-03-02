@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\bin\Debug\net8.0\FuncoeSMatematicas.exe
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\bin\Debug\net8.0\FuncoeSMatematicas.deps.json
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\bin\Debug\net8.0\FuncoeSMatematicas.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\bin\Debug\net8.0\FuncoeSMatematicas.dll
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\bin\Debug\net8.0\FuncoeSMatematicas.pdb
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\FuncoeSMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\FuncoeSMatematicas.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\FuncoeSMatematicas.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\FuncoeSMatematicas.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\FuncoeSMatematicas.dll
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\refint\FuncoeSMatematicas.dll
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\FuncoeSMatematicas.pdb
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\FuncoeSMatematicas.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 2\FuncoeSMatematicas\FuncoeSMatematicas\obj\Debug\net8.0\ref\FuncoeSMatematicas.dll

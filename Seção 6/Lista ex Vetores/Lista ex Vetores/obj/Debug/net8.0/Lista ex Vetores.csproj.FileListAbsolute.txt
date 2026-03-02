@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\bin\Debug\net8.0\Lista ex Vetores.exe
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\bin\Debug\net8.0\Lista ex Vetores.deps.json
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\bin\Debug\net8.0\Lista ex Vetores.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\bin\Debug\net8.0\Lista ex Vetores.dll
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\bin\Debug\net8.0\Lista ex Vetores.pdb
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\Lista ex Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\Lista ex Vetores.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\Lista ex Vetores.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\Lista ex Vetores.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\Lista ex Vetores.dll
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\refint\Lista ex Vetores.dll
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\Lista ex Vetores.pdb
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\Lista ex Vetores.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 6\Lista ex Vetores\Lista ex Vetores\obj\Debug\net8.0\ref\Lista ex Vetores.dll

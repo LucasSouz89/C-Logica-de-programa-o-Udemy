@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\bin\Debug\net8.0\Ex while.exe
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\bin\Debug\net8.0\Ex while.deps.json
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\bin\Debug\net8.0\Ex while.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\bin\Debug\net8.0\Ex while.dll
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\bin\Debug\net8.0\Ex while.pdb
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\Ex while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\Ex while.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\Ex while.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\Ex while.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\Ex while.dll
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\refint\Ex while.dll
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\Ex while.pdb
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\Ex while.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 4\Ex while\Ex while\obj\Debug\net8.0\ref\Ex while.dll

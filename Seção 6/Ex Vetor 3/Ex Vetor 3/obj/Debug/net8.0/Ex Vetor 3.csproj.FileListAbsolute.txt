@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\bin\Debug\net8.0\Ex Vetor 3.exe
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\bin\Debug\net8.0\Ex Vetor 3.deps.json
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\bin\Debug\net8.0\Ex Vetor 3.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\bin\Debug\net8.0\Ex Vetor 3.dll
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\bin\Debug\net8.0\Ex Vetor 3.pdb
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\Ex Vetor 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\Ex Vetor 3.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\Ex Vetor 3.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\Ex Vetor 3.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\Ex Vetor 3.dll
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\refint\Ex Vetor 3.dll
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\Ex Vetor 3.pdb
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\Ex Vetor 3.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 6\Ex Vetor 3\Ex Vetor 3\obj\Debug\net8.0\ref\Ex Vetor 3.dll

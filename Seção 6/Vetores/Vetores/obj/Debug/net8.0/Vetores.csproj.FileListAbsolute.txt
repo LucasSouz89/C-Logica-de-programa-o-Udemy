@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\bin\Debug\net8.0\Vetores.exe
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\bin\Debug\net8.0\Vetores.deps.json
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\bin\Debug\net8.0\Vetores.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\bin\Debug\net8.0\Vetores.dll
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\bin\Debug\net8.0\Vetores.pdb
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\Vetores.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\Vetores.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\Vetores.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\Vetores.dll
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\refint\Vetores.dll
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\Vetores.pdb
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\Vetores.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 6\Vetores\Vetores\obj\Debug\net8.0\ref\Vetores.dll

@@ -1,0 +1,14 @@
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\bin\Debug\net8.0\UriOnlineJU.exe
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\bin\Debug\net8.0\UriOnlineJU.deps.json
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\bin\Debug\net8.0\UriOnlineJU.runtimeconfig.json
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\bin\Debug\net8.0\UriOnlineJU.dll
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\bin\Debug\net8.0\UriOnlineJU.pdb
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\UriOnlineJU.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\UriOnlineJU.AssemblyInfoInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\UriOnlineJU.AssemblyInfo.cs
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\UriOnlineJU.csproj.CoreCompileInputs.cache
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\UriOnlineJU.dll
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\refint\UriOnlineJU.dll
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\UriOnlineJU.pdb
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\UriOnlineJU.genruntimeconfig.cache
+D:\Udemy\c# logica de programação\Seção 4\UriOnlineJU\UriOnlineJU\obj\Debug\net8.0\ref\UriOnlineJU.dll
