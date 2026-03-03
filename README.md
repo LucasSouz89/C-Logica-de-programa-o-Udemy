@@ -18,3 +18,4 @@ A lógica estruturada documentada aqui é o alicerce da minha jornada. O objetiv
 - C#
 - .NET 
 - Visual Studio
+ola como vai
