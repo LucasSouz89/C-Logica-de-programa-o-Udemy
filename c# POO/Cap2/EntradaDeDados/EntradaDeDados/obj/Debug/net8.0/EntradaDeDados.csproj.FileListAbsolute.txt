@@ -1,0 +1,14 @@
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.exe
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.deps.json
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.runtimeconfig.json
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.dll
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.pdb
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfoInputs.cache
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfo.cs
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.dll
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\refint\EntradaDeDados.dll
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.pdb
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.genruntimeconfig.cache
+D:\c# codigos\Cap3\EntradaDeDados\EntradaDeDados\obj\Debug\net8.0\ref\EntradaDeDados.dll

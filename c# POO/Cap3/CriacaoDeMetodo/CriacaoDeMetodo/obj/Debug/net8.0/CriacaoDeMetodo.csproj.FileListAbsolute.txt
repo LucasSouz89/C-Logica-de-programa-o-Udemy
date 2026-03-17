@@ -1,0 +1,14 @@
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\bin\Debug\net8.0\CriacaoDeMetodo.exe
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\bin\Debug\net8.0\CriacaoDeMetodo.deps.json
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\bin\Debug\net8.0\CriacaoDeMetodo.runtimeconfig.json
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\bin\Debug\net8.0\CriacaoDeMetodo.dll
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\bin\Debug\net8.0\CriacaoDeMetodo.pdb
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\CriacaoDeMetodo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\CriacaoDeMetodo.AssemblyInfoInputs.cache
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\CriacaoDeMetodo.AssemblyInfo.cs
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\CriacaoDeMetodo.csproj.CoreCompileInputs.cache
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\CriacaoDeMetodo.dll
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\refint\CriacaoDeMetodo.dll
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\CriacaoDeMetodo.pdb
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\CriacaoDeMetodo.genruntimeconfig.cache
+D:\Udemy\c# POO\Cap3\CriacaoDeMetodo\CriacaoDeMetodo\obj\Debug\net8.0\ref\CriacaoDeMetodo.dll

@@ -1,0 +1,14 @@
+D:\c# codigos\Cap3\Funções\Funções\bin\Debug\net8.0\Funções.exe
+D:\c# codigos\Cap3\Funções\Funções\bin\Debug\net8.0\Funções.deps.json
+D:\c# codigos\Cap3\Funções\Funções\bin\Debug\net8.0\Funções.runtimeconfig.json
+D:\c# codigos\Cap3\Funções\Funções\bin\Debug\net8.0\Funções.dll
+D:\c# codigos\Cap3\Funções\Funções\bin\Debug\net8.0\Funções.pdb
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\Funções.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\Funções.AssemblyInfoInputs.cache
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\Funções.AssemblyInfo.cs
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\Funções.csproj.CoreCompileInputs.cache
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\Funções.dll
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\refint\Funções.dll
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\Funções.pdb
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\Funções.genruntimeconfig.cache
+D:\c# codigos\Cap3\Funções\Funções\obj\Debug\net8.0\ref\Funções.dll

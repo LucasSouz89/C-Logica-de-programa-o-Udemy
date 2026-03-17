@@ -1,0 +1,14 @@
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+D:\c# codigos\Cap3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll

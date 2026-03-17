@@ -1,0 +1,14 @@
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\bin\Debug\net8.0\ResolvendoProblemaComPOO.exe
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\bin\Debug\net8.0\ResolvendoProblemaComPOO.deps.json
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\bin\Debug\net8.0\ResolvendoProblemaComPOO.runtimeconfig.json
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\bin\Debug\net8.0\ResolvendoProblemaComPOO.dll
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\bin\Debug\net8.0\ResolvendoProblemaComPOO.pdb
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\ResolvendoProblemaComPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\ResolvendoProblemaComPOO.AssemblyInfoInputs.cache
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\ResolvendoProblemaComPOO.AssemblyInfo.cs
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\ResolvendoProblemaComPOO.csproj.CoreCompileInputs.cache
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\ResolvendoProblemaComPOO.dll
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\refint\ResolvendoProblemaComPOO.dll
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\ResolvendoProblemaComPOO.pdb
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\ResolvendoProblemaComPOO.genruntimeconfig.cache
+D:\Udemy\c# POO\Cap3\ResolvendoProblemaComPOO\ResolvendoProblemaComPOO\obj\Debug\net8.0\ref\ResolvendoProblemaComPOO.dll

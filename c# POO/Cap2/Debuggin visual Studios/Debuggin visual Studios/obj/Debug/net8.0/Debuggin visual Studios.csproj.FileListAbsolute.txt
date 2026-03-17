@@ -1,0 +1,4 @@
+D:\c# codigos\Cap3\Debuggin visual Studios\Debuggin visual Studios\obj\Debug\net8.0\Debuggin visual Studios.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Cap3\Debuggin visual Studios\Debuggin visual Studios\obj\Debug\net8.0\Debuggin visual Studios.AssemblyInfoInputs.cache
+D:\c# codigos\Cap3\Debuggin visual Studios\Debuggin visual Studios\obj\Debug\net8.0\Debuggin visual Studios.AssemblyInfo.cs
+D:\c# codigos\Cap3\Debuggin visual Studios\Debuggin visual Studios\obj\Debug\net8.0\Debuggin visual Studios.csproj.CoreCompileInputs.cache

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5664E330-F9F9-458A-810E-289AA9778C8E}|ExerciciosFixacao\\ExerciciosFixacao.csproj|d:\\udemy\\c# poo\\cap3\\exerciciosfixacao\\exerciciosfixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5664E330-F9F9-458A-810E-289AA9778C8E}|ExerciciosFixacao\\ExerciciosFixacao.csproj|solutionrelative:exerciciosfixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5664E330-F9F9-458A-810E-289AA9778C8E}|ExerciciosFixacao\\ExerciciosFixacao.csproj|d:\\udemy\\c# poo\\cap3\\exerciciosfixacao\\exerciciosfixacao\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5664E330-F9F9-458A-810E-289AA9778C8E}|ExerciciosFixacao\\ExerciciosFixacao.csproj|solutionrelative:exerciciosfixacao\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5664E330-F9F9-458A-810E-289AA9778C8E}|ExerciciosFixacao\\ExerciciosFixacao.csproj|d:\\udemy\\c# poo\\cap3\\exerciciosfixacao\\exerciciosfixacao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5664E330-F9F9-458A-810E-289AA9778C8E}|ExerciciosFixacao\\ExerciciosFixacao.csproj|solutionrelative:exerciciosfixacao\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5664E330-F9F9-458A-810E-289AA9778C8E}|ExerciciosFixacao\\ExerciciosFixacao.csproj|d:\\udemy\\c# poo\\cap3\\exerciciosfixacao\\exerciciosfixacao\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5664E330-F9F9-458A-810E-289AA9778C8E}|ExerciciosFixacao\\ExerciciosFixacao.csproj|solutionrelative:exerciciosfixacao\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\ExerciciosFixacao\\Aluno.cs",
+              "RelativeDocumentMoniker": "ExerciciosFixacao\\Aluno.cs",
+              "ToolTip": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\ExerciciosFixacao\\Aluno.cs",
+              "RelativeToolTip": "ExerciciosFixacao\\Aluno.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:30:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\ExerciciosFixacao\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ExerciciosFixacao\\Funcionario.cs",
+              "ToolTip": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\ExerciciosFixacao\\Funcionario.cs",
+              "RelativeToolTip": "ExerciciosFixacao\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:40:20.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\ExerciciosFixacao\\Retangulo.cs",
+              "RelativeDocumentMoniker": "ExerciciosFixacao\\Retangulo.cs",
+              "ToolTip": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\ExerciciosFixacao\\Retangulo.cs",
+              "RelativeToolTip": "ExerciciosFixacao\\Retangulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:25:47.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\ExerciciosFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosFixacao\\Program.cs",
+              "ToolTip": "D:\\Udemy\\c# POO\\Cap3\\ExerciciosFixacao\\ExerciciosFixacao\\Program.cs",
+              "RelativeToolTip": "ExerciciosFixacao\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:25:17.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

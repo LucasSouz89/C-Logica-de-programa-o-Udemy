@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# codigos\\Cap3\\Ex While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2BD1D5-FA9A-4556-8289-F92E1CF1D6D8}|Ex While\\Ex While.csproj|d:\\c# codigos\\cap3\\ex while\\ex while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF2BD1D5-FA9A-4556-8289-F92E1CF1D6D8}|Ex While\\Ex While.csproj|solutionrelative:ex while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# codigos\\Cap3\\Ex While\\Ex While\\Program.cs",
+              "RelativeDocumentMoniker": "Ex While\\Program.cs",
+              "ToolTip": "D:\\c# codigos\\Cap3\\Ex While\\Ex While\\Program.cs",
+              "RelativeToolTip": "Ex While\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:49:30.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

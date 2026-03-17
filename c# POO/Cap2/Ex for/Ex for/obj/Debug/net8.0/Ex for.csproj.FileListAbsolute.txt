@@ -1,0 +1,14 @@
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\Ex for.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\Ex for.AssemblyInfoInputs.cache
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\Ex for.AssemblyInfo.cs
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\Ex for.csproj.CoreCompileInputs.cache
+D:\c# codigos\Cap3\Ex for\Ex for\bin\Debug\net8.0\Ex for.exe
+D:\c# codigos\Cap3\Ex for\Ex for\bin\Debug\net8.0\Ex for.deps.json
+D:\c# codigos\Cap3\Ex for\Ex for\bin\Debug\net8.0\Ex for.runtimeconfig.json
+D:\c# codigos\Cap3\Ex for\Ex for\bin\Debug\net8.0\Ex for.dll
+D:\c# codigos\Cap3\Ex for\Ex for\bin\Debug\net8.0\Ex for.pdb
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\Ex for.dll
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\refint\Ex for.dll
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\Ex for.pdb
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\Ex for.genruntimeconfig.cache
+D:\c# codigos\Cap3\Ex for\Ex for\obj\Debug\net8.0\ref\Ex for.dll

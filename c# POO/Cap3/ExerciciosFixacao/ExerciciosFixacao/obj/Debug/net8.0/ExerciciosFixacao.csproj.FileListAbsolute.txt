@@ -1,0 +1,14 @@
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.exe
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.deps.json
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.runtimeconfig.json
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.dll
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.pdb
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.AssemblyInfoInputs.cache
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.AssemblyInfo.cs
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.csproj.CoreCompileInputs.cache
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.dll
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\refint\ExerciciosFixacao.dll
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.pdb
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.genruntimeconfig.cache
+D:\Udemy\c# POO\Cap3\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ref\ExerciciosFixacao.dll

@@ -1,0 +1,14 @@
+D:\c# codigos\Cap3\Ex While\Ex While\bin\Debug\net8.0\Ex While.exe
+D:\c# codigos\Cap3\Ex While\Ex While\bin\Debug\net8.0\Ex While.deps.json
+D:\c# codigos\Cap3\Ex While\Ex While\bin\Debug\net8.0\Ex While.runtimeconfig.json
+D:\c# codigos\Cap3\Ex While\Ex While\bin\Debug\net8.0\Ex While.dll
+D:\c# codigos\Cap3\Ex While\Ex While\bin\Debug\net8.0\Ex While.pdb
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\Ex While.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\Ex While.AssemblyInfoInputs.cache
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\Ex While.AssemblyInfo.cs
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\Ex While.csproj.CoreCompileInputs.cache
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\Ex While.dll
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\refint\Ex While.dll
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\Ex While.pdb
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\Ex While.genruntimeconfig.cache
+D:\c# codigos\Cap3\Ex While\Ex While\obj\Debug\net8.0\ref\Ex While.dll

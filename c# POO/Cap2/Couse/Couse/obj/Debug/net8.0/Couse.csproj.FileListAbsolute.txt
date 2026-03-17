@@ -1,0 +1,14 @@
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\Couse.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\Couse.AssemblyInfoInputs.cache
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\Couse.AssemblyInfo.cs
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\Couse.csproj.CoreCompileInputs.cache
+D:\c# codigos\Couse\Couse\bin\Debug\net8.0\Couse.exe
+D:\c# codigos\Couse\Couse\bin\Debug\net8.0\Couse.deps.json
+D:\c# codigos\Couse\Couse\bin\Debug\net8.0\Couse.runtimeconfig.json
+D:\c# codigos\Couse\Couse\bin\Debug\net8.0\Couse.dll
+D:\c# codigos\Couse\Couse\bin\Debug\net8.0\Couse.pdb
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\Couse.dll
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\refint\Couse.dll
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\Couse.pdb
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\Couse.genruntimeconfig.cache
+D:\c# codigos\Couse\Couse\obj\Debug\net8.0\ref\Couse.dll

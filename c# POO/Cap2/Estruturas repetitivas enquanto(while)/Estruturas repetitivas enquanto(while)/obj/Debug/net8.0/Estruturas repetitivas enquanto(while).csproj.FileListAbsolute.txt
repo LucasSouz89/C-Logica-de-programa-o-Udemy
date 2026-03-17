@@ -1,0 +1,14 @@
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\bin\Debug\net8.0\Estruturas repetitivas enquanto(while).exe
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\bin\Debug\net8.0\Estruturas repetitivas enquanto(while).deps.json
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\bin\Debug\net8.0\Estruturas repetitivas enquanto(while).runtimeconfig.json
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\bin\Debug\net8.0\Estruturas repetitivas enquanto(while).dll
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\bin\Debug\net8.0\Estruturas repetitivas enquanto(while).pdb
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\Estruturas repetitivas enquanto(while).GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\Estruturas repetitivas enquanto(while).AssemblyInfoInputs.cache
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\Estruturas repetitivas enquanto(while).AssemblyInfo.cs
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\Estruturas repetitivas enquanto(while).csproj.CoreCompileInputs.cache
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\Estruturas repetitivas enquanto(while).dll
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\refint\Estruturas repetitivas enquanto(while).dll
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\Estruturas repetitivas enquanto(while).pdb
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\Estruturas repetitivas enquanto(while).genruntimeconfig.cache
+D:\c# codigos\Cap3\Estruturas repetitivas enquanto(while)\Estruturas repetitivas enquanto(while)\obj\Debug\net8.0\ref\Estruturas repetitivas enquanto(while).dll

@@ -1,0 +1,14 @@
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.exe
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.deps.json
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.runtimeconfig.json
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.dll
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net8.0\OperadoresComparativos.pdb
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.AssemblyInfoInputs.cache
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.AssemblyInfo.cs
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.dll
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\refint\OperadoresComparativos.dll
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.pdb
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\OperadoresComparativos.genruntimeconfig.cache
+D:\c# codigos\Cap3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net8.0\ref\OperadoresComparativos.dll

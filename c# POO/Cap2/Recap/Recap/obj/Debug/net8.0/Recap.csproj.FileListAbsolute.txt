@@ -1,0 +1,14 @@
+D:\Udemy\c# POO\Cap2\Recap\Recap\bin\Debug\net8.0\Recap.exe
+D:\Udemy\c# POO\Cap2\Recap\Recap\bin\Debug\net8.0\Recap.deps.json
+D:\Udemy\c# POO\Cap2\Recap\Recap\bin\Debug\net8.0\Recap.runtimeconfig.json
+D:\Udemy\c# POO\Cap2\Recap\Recap\bin\Debug\net8.0\Recap.dll
+D:\Udemy\c# POO\Cap2\Recap\Recap\bin\Debug\net8.0\Recap.pdb
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\Recap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\Recap.AssemblyInfoInputs.cache
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\Recap.AssemblyInfo.cs
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\Recap.csproj.CoreCompileInputs.cache
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\Recap.dll
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\refint\Recap.dll
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\Recap.pdb
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\Recap.genruntimeconfig.cache
+D:\Udemy\c# POO\Cap2\Recap\Recap\obj\Debug\net8.0\ref\Recap.dll
