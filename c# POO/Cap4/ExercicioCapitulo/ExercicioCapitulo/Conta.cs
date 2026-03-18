@@ -22,8 +22,8 @@ namespace ExercicioCapitulo {
             this.Numero = numero;
 
         }
-        public Conta(string nome, int numero, double saldo) : this(nome,numero){
-            Saldo = saldo;
+        public Conta(string nome, int numero, double DepositoInicial) : this(nome,numero){
+            Deposito(DepositoInicial);
         }
         public void Deposito(double valor) {
              Saldo += valor;
@@ -32,7 +32,7 @@ namespace ExercicioCapitulo {
              Saldo -= valor + 5;
         }
         public override string ToString() {
-            return $"Conta {Numero}, Titular: {_nome}, Saldo: $ {Saldo.ToString("F2",CultureInfo.InvariantCulture)}";
+            return $"Conta {Numero}, Titular: {Nome}, Saldo: $ {Saldo.ToString("F2",CultureInfo.InvariantCulture)}";
         }
     }
 }

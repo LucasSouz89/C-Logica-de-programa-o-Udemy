@@ -5,12 +5,11 @@ using System.Globalization;
 namespace MyApp {
         internal class Program {
             static void Main(string[] args) {
-
-                Console.Write("Entre o número da conta: ");
+            Conta c;
+            Console.Write("Entre o número da conta: ");
                 int numero = int.Parse(Console.ReadLine());
-                Console.Write("Entre o nome da conta: ");
+                Console.Write("Entre o titular da conta: ");
                 string nome = Console.ReadLine();
-                Conta c;
                 Console.Write("Havera um deposito inicial (s/n)? ");
                 string alternativa = Console.ReadLine();
                 double valor;
