@@ -23,9 +23,28 @@ namespace ExDateTIme
             var data = new DateTime(ano, mes, dia, hora, minuto, segundo);
             Console.WriteLine(data);
             */
+            /*
             //Ex 3
             var dataZerada = DateTime.Today;
             Console.WriteLine(dataZerada);
+            */
+            //Ex 4
+            var saidaMatriz = new DateTime(2026, 3, 26, 8, 0, 0);
+            var chegadaFilial = new DateTime(2026, 3, 26, 10, 45, 0);
+            var limiteDeTempo = new TimeSpan(2, 30, 0);
+
+            var sitauacao = (chegadaFilial.Subtract(saidaMatriz) <= limiteDeTempo) ? "Viagem no prazo!" : "Alerta: Caminhão atrasado!";
+            Console.WriteLine(sitauacao);
+
+            //Ex 5
+            var horaQueBebeu = DateTime.Now;
+            var minutos = TimeSpan.FromMinutes(8);
+            var horaQueAcaba = horaQueBebeu + minutos;
+            Console.WriteLine($"O efeito acaba exatamente às: {horaQueAcaba}");
+            //Ex 6
+            var tempoTotalSegundos = 9500.0;
+            var tempoDoSpeedrun = TimeSpan.FromSeconds(tempoTotalSegundos);
+            Console.WriteLine($"O Speedrun durou: {tempoDoSpeedrun.Hours} horas, {tempoDoSpeedrun.Minutes} minutos e {tempoDoSpeedrun.Seconds} segundos.");
         }
     }
 }
