@@ -21,8 +21,11 @@
             var diamantesNoInventario = 2;
             var podeCraftar = diamantesNoInventario >= 3;
             Console.WriteLine($"Posso craftar os diamantes? {podeCraftar}");
-
             
+            int hp = 15;
+            string statusJogador = (hp > 20) ? "Saudávael": "Sangrando";
+
+
         }
     }
 }

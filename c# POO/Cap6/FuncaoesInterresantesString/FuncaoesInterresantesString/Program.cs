@@ -47,6 +47,9 @@
             // Verifica se a variável é nula, vazia, ou se contém APENAS espaços em branco
             bool b3 = String.IsNullOrWhiteSpace(original);
             Console.WriteLine(b3);
+
+            string rastreio = "   BR-9988-SP   ";
+            Console.WriteLine(rastreio.Trim().Replace("SP","RJ"));
         }
     }
 }
