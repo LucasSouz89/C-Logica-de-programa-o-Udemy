@@ -24,7 +24,7 @@
             
             int hp = 15;
             string statusJogador = (hp > 20) ? "Saudávael": "Sangrando";
-
+            Console.WriteLine(statusJogador);
 
         }
     }
