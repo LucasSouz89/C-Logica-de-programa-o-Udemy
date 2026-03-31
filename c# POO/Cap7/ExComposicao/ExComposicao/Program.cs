@@ -73,6 +73,7 @@ namespace ExComposicao
 }
 */
 //Ex2
+/*
 using ExComposicao.Ex2.Class;
 using ExComposicao.Ex2.Enums;
 using System;
@@ -179,6 +180,119 @@ namespace ExComposicao
                 ano = int.Parse(periodo[1]);
             }
            return t.CalculateMonthlyRevenue(ano, mes);
+        }
+    }
+}
+*/
+//Ex3 
+using ExComposicao.Ex3.Class;
+using ExComposicao.Ex3.Enums;
+using System;
+using System.Globalization;
+
+namespace ExComposicao
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("------Programa de reconhecimento de drone------------");
+            Battery battery;
+            Battery(out battery);
+            DroneStatus status;
+            StatusDrone(out status);
+            string nome = GetNome();
+            Drone drone = new Drone(nome,status,battery);
+            CargoList(drone);
+            Console.WriteLine($"Total de carga do drone: {drone.TotalCargoWeight().ToString("F2",CultureInfo.InvariantCulture)}");
+            Console.WriteLine("Digite o peso da nova carga: ");
+            var newWeigth = double.Parse(Console.ReadLine());
+            string situation = (drone.CanTakeoff(newWeigth) == true) ? "O drone é capaz de voar" : "O drone não é capaz de voar";
+            Console.WriteLine(situation);
+        }
+        public static void Battery(out Battery b){
+            Console.Write("Digite o modelo da bateria: ");
+            var brand = Console.ReadLine();
+            while(brand == null) {
+                Console.Write("Digite o modelo da bateria valido: ");
+                brand = Console.ReadLine(); 
+            }
+            brand.Trim().ToUpper();
+            Console.Write("Digite a capacidade maxima da bateria(3000-5000): ");
+            var maxCapacity = double.Parse(Console.ReadLine());
+            while(maxCapacity < 3000 || maxCapacity > 5000)
+            {
+                Console.Write("Digite a capacidade maxima da bateria(3000-5000): ");
+                maxCapacity = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            }
+            b = new Battery(brand,maxCapacity);
+        }
+        public static void StatusDrone(out DroneStatus status)
+        {
+            
+            var opcao = 0;
+            string situacao = "";
+            while (opcao < 1 || opcao > 3)
+            {
+                Console.Write("Qual é o status do Drone?(1-Parado,2-Voando,3-Em manutenção) ");
+                opcao = int.Parse(Console.ReadLine());
+                
+                switch (opcao) {
+                    case 1:
+                        situacao = "Idle";
+                        break;
+                    case 2:
+                        situacao = "InFlight";
+                        break;
+                    case 3:
+                        situacao = "Maintenance";
+                        break;
+                    default:
+                        Console.WriteLine("Opcão invalida");
+                        break;
+                }
+            }
+            status = Enum.Parse<DroneStatus>(situacao);
+        }
+        public static string GetNome()
+        {
+            Console.Write("Digite o nome do drone: ");
+            var name = Console.ReadLine();
+            while (name == null) {
+                Console.Write("Digite o nome do drone: ");
+                name = Console.ReadLine();
+            }
+            return name.ToUpper().Trim();
+        }
+        public static void CargoList(Drone d)
+        {
+            Console.Write("Qual a quantidade de cargas que o drone deve entregar? ");
+            var qtd = int.Parse(Console.ReadLine());
+            while (qtd < 0) { Console.Write("Digite um numero valido: "); qtd = int.Parse(Console.ReadLine()); }
+            for (int i = 1; i <= qtd; i++)
+            {
+                Console.WriteLine($"Carga #{i}");
+                Console.Write("Digite o codigo de rastreio(WES-290): ");
+                string[] vet = Console.ReadLine().Split("-");
+                string lettter = vet[0];
+                string numbers = vet[1];
+                while(lettter.Length != 3 || numbers.Length !=3) { 
+                    Console.Write("Digite o codigo de rastreio valido: ");
+                    vet = Console.ReadLine().Split("-");
+                    lettter = vet[0];
+                    numbers = vet[1];
+                }
+                string finalName = (lettter + "-" + numbers).Trim().ToUpper();
+                Console.Write("Digite o peso da carga: ");
+                var Weight = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);    
+                while (Weight <= 0)
+                {
+                    Console.WriteLine("Digite um numero valido: ");
+                    Weight = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                }
+                DeliveryItem deliveryItem = new DeliveryItem(finalName,Weight);
+                d.AddItem(deliveryItem);
+            }
         }
     }
 }
