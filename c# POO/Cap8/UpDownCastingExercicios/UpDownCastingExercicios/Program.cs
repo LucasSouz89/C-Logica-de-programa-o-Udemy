@@ -1,6 +1,9 @@
 ﻿using System;
 using UpDownCastingExercicios.Ex1.Entites.Class;
 using UpDownCastingExercicios.Ex2.Entites.Class;
+using UpDownCastingExercicios.Ex3.Entites.Class;
+using UpDownCastingExercicios.Ex4.Entites.Class;
+using UpDownCastingExercicios.Ex5.Entites.Class;
 
 namespace UpDownCastingExercicios
 {
@@ -37,9 +40,34 @@ namespace UpDownCastingExercicios
             }
             foreach (Item index in itens)
             {
+                //Jeito antigo : if (index is Arma) { Arma arma = new Arma();arma.Atacar(); }
+                //Novo jeito:
                 if (index is Arma arma) { arma.Atacar(); }
                 else if (index is Consumivel consumivel) {consumivel.Curar(); }
             }
+            //Ex3
+            Habilidade habilidade = new Magia(20);
+            Magia magia = habilidade as Magia;
+
+            if (magia != null)
+            {
+                Console.WriteLine($"Magia com {magia.CustoDeMana} custo de mana");
+            }
+            else { Console.WriteLine("Essa magia não tem custo de mana"); }
+
+            //Ex4
+            NPC npc1 = new Vendedor("Astolfo");
+            NPC npc2 = new QuestGiver("Ronaldo");
+            InteragirNpc(npc1);
+            InteragirNpc(npc2);
+            //Ex5
+            Veiculo v = new Moto("Honda");
+            Tanque t =(Tanque)v;
+        }
+        public static void InteragirNpc(NPC npc)
+        {
+            if(npc is QuestGiver questgiver) { Console.WriteLine("Esse NPC da as quests");questgiver.EntregarMissao(); }
+            else if(npc is Vendedor vendedor) { Console.WriteLine("Esse NPC é um vendedor");vendedor.AbrirLoja(); }
         }
     }
 }

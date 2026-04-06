@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesEMetodosSelados", "ClassesEMetodosSelados\ClassesEMetodosSelados.csproj", "{A7F1B56C-C795-4586-BD3B-36065D2031E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F1B56C-C795-4586-BD3B-36065D2031E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F1B56C-C795-4586-BD3B-36065D2031E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F1B56C-C795-4586-BD3B-36065D2031E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F1B56C-C795-4586-BD3B-36065D2031E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {922204A9-505F-49C6-B840-D9D8C6703A96}
+	EndGlobalSection
+EndGlobal
