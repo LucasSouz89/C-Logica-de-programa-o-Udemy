@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesEMetodosSelados.Entites
 {
-    internal class SavingsAccountPlus
+    internal class SavingsAccountPlus : SavingsAccount
     {
     }
 }

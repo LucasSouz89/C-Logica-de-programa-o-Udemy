@@ -18,7 +18,7 @@ namespace ExercicioResolvido.Entites.Class
         }
         public sealed override double Payment()
         {
-            return base.Payment()+(AdditionalCharge*1.10);
+            return base.Payment()+AdditionalCharge*1.10;
             
         }
 

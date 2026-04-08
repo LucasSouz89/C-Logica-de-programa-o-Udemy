@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassesEMetodosSelados.Entites
+namespace ClassesAbstratas.Entites
 {
-    internal class Account
+    //A classe abstrata não pode ser intanciada
+    abstract class Account
     {
         public int Number { get; private set; }
         public string Holder { get;private set; }

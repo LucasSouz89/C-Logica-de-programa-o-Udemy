@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassesEMetodosSelados.Entites
+namespace MetodoAbrastato.Entites
 {
-    //Colocar como sealed class SavingsAccount : Account, evita que outra classe herdam SavingsAccount
-    class SavingsAccount : Account
+    
+    sealed class SavingsAccount : Account
     {
         public double InterestRate { get; private set; }
 
@@ -20,7 +20,7 @@ namespace ClassesEMetodosSelados.Entites
         {
             Balance += Balance * InterestRate;
         }
-        //Um metodo selado evita que a subclasse sobrescreva o mesmo metodo
+        
         public sealed override void Withdraw(double amount)
         {
             base.Withdraw(amount);

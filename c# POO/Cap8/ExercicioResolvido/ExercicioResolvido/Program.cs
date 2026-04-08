@@ -36,6 +36,7 @@ namespace ExercicioResolvido
                     employees.Add(new OutsourcedEmployee(name,hours,vph,ac));
                 }
             }
+            
             Console.WriteLine();
             Console.WriteLine("PAYMENTS:");
             foreach (var e in employees) {
