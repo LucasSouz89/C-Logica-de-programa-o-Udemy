@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClasseAbastrataExercicio.Entites.Class
+namespace ClasseAbastrataExercicio.Ex1.Entites.Class
 {
     sealed class Assassino : Campeao
     {
