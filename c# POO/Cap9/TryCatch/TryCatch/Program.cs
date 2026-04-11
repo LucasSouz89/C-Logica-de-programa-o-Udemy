@@ -7,7 +7,7 @@
             try
             {
                 int[] n = new int[2];
-                int sum = 0;
+                
 
                 for (int i = 0; i < n.Length; i++)
                 {
