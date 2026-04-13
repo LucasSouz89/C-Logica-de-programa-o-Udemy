@@ -27,6 +27,8 @@ namespace ExercicioProposto
                 Console.WriteLine(account);
             }
             catch (ExceptionDomain error) { Console.WriteLine(error.Message); }
+            catch (FormatException) { Console.WriteLine("Format exception: Enter a valid argument"); }
+            catch (Exception error) { Console.WriteLine(error.Message); }
             finally { Console.WriteLine("Leaving the program"); }
         }
     }
