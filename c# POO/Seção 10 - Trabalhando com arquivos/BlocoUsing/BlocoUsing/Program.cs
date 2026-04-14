@@ -1,11 +1,14 @@
 ﻿using System.IO;
 
+
 namespace BlocoUsing
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            //Ex 1
+            /*
             string path = @"C:\Windows\Temp\Treinamentos\file1.txt";
             try
             {
@@ -26,6 +29,27 @@ namespace BlocoUsing
             {
                 Console.WriteLine($"An error occurred: {e.Message}");
             }
+            */
+
+            string path = @"C:\Windows\Temp\Treinamentos\mensagem_secreta.txt";
+            string copyPath = @"C:\Windows\Temp\Treinamentos\mensagem_maiuscula.txt";
+            try
+            {
+                using (StreamReader sr = File.OpenText(path))
+                {
+                    using (StreamWriter sw = File.CreateText(copyPath))
+                    {
+                        while (!sr.EndOfStream)
+                        {
+                            string line = sr.ReadLine();
+                            string linhaMaiuscula = line.ToUpper();
+                            sw.WriteLine(linhaMaiuscula);
+                        }
+                    }
+
+                }
+
+            }catch(IOException e) { Console.WriteLine(e.Message); }
         }
     }
 }
