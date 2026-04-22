@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Ex5\Services\" />
+    <Folder Include="Ex4\Class\Entites\" />
+    <Folder Include="Ex4\Interface\" />
+    <Folder Include="Ex4\Services\" />
+    <Folder Include="Ex3\Services\" />
+  </ItemGroup>
+
+</Project>

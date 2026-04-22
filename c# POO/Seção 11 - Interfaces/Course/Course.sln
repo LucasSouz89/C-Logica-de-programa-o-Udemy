@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversaoDeControleEInjecaoDeDependencia", "InversaoDeControleEInjecaoDeDependencia\InversaoDeControleEInjecaoDeDependencia.csproj", "{A9F80602-14F2-4B5F-A87D-498557F5B62D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F80602-14F2-4B5F-A87D-498557F5B62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F80602-14F2-4B5F-A87D-498557F5B62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F80602-14F2-4B5F-A87D-498557F5B62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F80602-14F2-4B5F-A87D-498557F5B62D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2915AC57-797B-477B-9D7F-2FF0946321C1}
+	EndGlobalSection
+EndGlobal

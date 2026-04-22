@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoComInterfaces", "SolucaoComInterfaces\SolucaoComInterfaces.csproj", "{84D49127-45DD-4770-911A-747BDD88A654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D49127-45DD-4770-911A-747BDD88A654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D49127-45DD-4770-911A-747BDD88A654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D49127-45DD-4770-911A-747BDD88A654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D49127-45DD-4770-911A-747BDD88A654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A226CA-31D2-46AF-93B3-F9FAD48F9A68}
+	EndGlobalSection
+EndGlobal
