@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,5 +26,12 @@ namespace InversaoDeControleEInjecaoDeDependencia.Entites.Class
         }
         public void AddInstallments(Installment installment) { Installments.Add(installment); }
         public void RemoveInstallments(Installment installment){ Installments.Remove(installment); }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach (var installment in Installments) { sb.AppendLine($"{installment.DueDate.ToString("dd/MM/yyyy")} - {installment.Amount.ToString("F2",CultureInfo.InvariantCulture)}"); }
+            return sb.ToString();
+        }
     }
 }

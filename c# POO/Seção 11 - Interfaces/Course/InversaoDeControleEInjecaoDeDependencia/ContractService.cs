@@ -20,8 +20,11 @@ namespace InversaoDeControleEInjecaoDeDependencia
         {
             double baseCot = contract.TotalValue / months;
             for (int i = 1; i <= months; i++) {
-
+                double interest = _onlinePaymentService.Interest(baseCot, i);
+                double PaymentFee = _onlinePaymentService.PaymentFee(interest);
+                contract.AddInstallments(new Installment(contract.Date.AddMonths(i),PaymentFee));
             }
+            
         }
     }
 }
