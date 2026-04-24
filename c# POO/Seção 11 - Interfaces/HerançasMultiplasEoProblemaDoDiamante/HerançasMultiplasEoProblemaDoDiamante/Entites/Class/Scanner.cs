@@ -16,7 +16,7 @@ namespace HerançasMultiplasEoProblemaDoDiamante.Entites.Class
         {
             Console.WriteLine($"Scanner proccesing {document}");
         }
-        public virtual string Scan()
+        public string Scan()
         {
             return "Scanner scan result";
         }

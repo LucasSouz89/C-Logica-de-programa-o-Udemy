@@ -1,4 +1,5 @@
 ﻿using HerançasMultiplasEoProblemaDoDiamante.Entites.Class;
+using HerançasMultiplasEoProblemaDoDiamante.Entites.Interface;
 
 namespace HerançasMultiplasEoProblemaDoDiamante
 {
@@ -13,23 +14,12 @@ namespace HerançasMultiplasEoProblemaDoDiamante
 
             foreach(var device in devices)
             {
-                if (device is Printer printer) 
-                { 
-                    printer.ProcessDoc("Payment contract");
-                    printer.Print("My letter");
-                }
-                else if (device is Scanner scanner) 
-                { scanner.ProcessDoc("My email");
-                  Console.WriteLine(scanner.Scan());
-                }
-                else if(device is ComboDevice comboDevice) 
-                {
-                    Console.WriteLine(comboDevice.Scan()); 
-                    comboDevice.ProcessDoc("jornal");
-                    comboDevice.Print("Contract");
-                }
+                if(device is IPrinter printer) { printer.Print("Jornal");}
+                if(device is IScanner scanner) { Console.WriteLine(scanner.Scan()); }
+                device.ProcessDoc("Layer page");
                 Console.WriteLine();
             }
+
         }
     }
 }
