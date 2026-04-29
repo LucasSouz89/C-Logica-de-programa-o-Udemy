@@ -7,6 +7,7 @@ using GenericsExercicios.Ex6;
 using GenericsExercicios.Ex7;
 using GenericsExercicios.Ex8.Class;
 using GenericsExercicios.Ex8.Interface;
+using GenericsExercicios.Ex9.Class;
 using System.Globalization;
 
 namespace GenericsExercicios
@@ -68,18 +69,22 @@ namespace GenericsExercicios
             //situacao = (Buscador.ContemItem<String>(list, "Presunto")) ? "O item foi achado" : "O item não foi achado";
             //Console.WriteLine(situacao);
             //eX 8
-            List<PlacaDeVideo> placaDeVideos = new List<PlacaDeVideo>();
-            placaDeVideos.Add(new PlacaDeVideo(12000.99));
-            placaDeVideos.Add(new PlacaDeVideo(2000.23));
-            placaDeVideos.Add(new PlacaDeVideo(1100.46));
-            placaDeVideos.Add(new PlacaDeVideo(7000.95));
-            //Somando o preco de todas as placas de video
-            Console.WriteLine($"Valor total em estoque $ {CalcularEstoque.SomaTotal<PlacaDeVideo>(placaDeVideos).ToString("F2",CultureInfo.InvariantCulture)}");
-            List<Livro> livros = new List<Livro>();
-            livros.Add(new Livro(20.50));
-            livros.Add(new Livro(30.40));
-            livros.Add(new Livro(75.90));
-            Console.WriteLine($"Valor total em estoque $ {CalcularEstoque.SomaTotal<Livro>(livros).ToString("F2", CultureInfo.InvariantCulture)}");
+            //    List<PlacaDeVideo> placaDeVideos = new List<PlacaDeVideo>();
+            //    placaDeVideos.Add(new PlacaDeVideo(12000.99));
+            //    placaDeVideos.Add(new PlacaDeVideo(2000.23));
+            //    placaDeVideos.Add(new PlacaDeVideo(1100.46));
+            //    placaDeVideos.Add(new PlacaDeVideo(7000.95));
+            //    //Somando o preco de todas as placas de video
+            //    Console.WriteLine($"Valor total em estoque $ {CalcularEstoque.SomaTotal<PlacaDeVideo>(placaDeVideos).ToString("F2",CultureInfo.InvariantCulture)}");
+            //    List<Livro> livros = new List<Livro>();
+            //    livros.Add(new Livro(20.50));
+            //    livros.Add(new Livro(30.40));
+            //    livros.Add(new Livro(75.90));
+            //    Console.WriteLine($"Valor total em estoque $ {CalcularEstoque.SomaTotal<Livro>(livros).ToString("F2", CultureInfo.InvariantCulture)}");
+            //}
+            //Ex 9
+            Relatorio.ImprimirDicionario<string, double>("BR-149", 200.50);
+            Relatorio.ImprimirDicionario<double, string>(200.50, "BR-149");
         }
     }
 }
