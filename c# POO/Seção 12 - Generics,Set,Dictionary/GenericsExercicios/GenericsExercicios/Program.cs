@@ -1,4 +1,7 @@
 ﻿using GenericsExercicios.Ex1;
+using GenericsExercicios.Ex10;
+using GenericsExercicios.Ex11.Class;
+using GenericsExercicios.Ex11.Interface;
 using GenericsExercicios.Ex2;
 using GenericsExercicios.Ex3;
 using GenericsExercicios.Ex4;
@@ -83,8 +86,17 @@ namespace GenericsExercicios
             //    Console.WriteLine($"Valor total em estoque $ {CalcularEstoque.SomaTotal<Livro>(livros).ToString("F2", CultureInfo.InvariantCulture)}");
             //}
             //Ex 9
-            Relatorio.ImprimirDicionario<string, double>("BR-149", 200.50);
-            Relatorio.ImprimirDicionario<double, string>(200.50, "BR-149");
+            //Relatorio.ImprimirDicionario<string, double>("BR-149", 200.50);
+            //Relatorio.ImprimirDicionario<double, string>(200.50, "BR-149");
+            //Ex 10
+            List<int> numeros = new List<int>() {10,45,89,103,29 };
+            Ordenador.OrdenarLista<int>(numeros);
+            //Ex11
+            
+            Repositorio<Cliente> repositorio = new Repositorio<Cliente>();
+            repositorio.AdicionarNovo();
+            repositorio.AdicionarNovo();
+
         }
     }
 }
