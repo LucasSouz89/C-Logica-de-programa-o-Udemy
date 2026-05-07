@@ -170,7 +170,7 @@ namespace DictionaryExercicios
                 string[] line = item.Split(' ');
                 string name = line[0];
                 if(logs.TryGetValue(name,out int value)) { logs[name] = value + 1; }
-                else { logs[name] = logs.GetValueOrDefault(name,0) + !; }
+                else { logs[name] = logs.GetValueOrDefault(name,0) + 1; }
             }
             foreach (var item in logs)
             {
