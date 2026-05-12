@@ -27,7 +27,17 @@ namespace PredicateExercicios
             enemies.Add(new Enemy("Zumbi rastejante", 1));
             var aliveEnemys = enemies.FindAll(x => x.Health > 0);
             Console.WriteLine(string.Join("\n",aliveEnemys));
+            //Ex5
+            FilterAndPrint(list, x => x % 2 ==0);
 
+        }
+        public static void FilterAndPrint(List<int> numbers,Predicate<int> condition)
+        {
+
+            foreach (var item in numbers)
+            {
+                if (condition(item)) {  Console.WriteLine(item); }
+            }
         }
     }
 }
