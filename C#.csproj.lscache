@@ -1,0 +1,1757 @@
+version=1
+
+# This file caches language service data to improve the performance of C# Dev Kit.
+# It is not intended for manual editing. It can safely be deleted and will be
+# regenerated automatically. For more information, see https://aka.ms/lscache
+#
+# To control where cache files are stored, use the following VS Code setting:
+#   "dotnet.projectsystem.cacheInProjectFolder": true
+
+[project]
+language=C#
+primary
+lastDtbSucceeded
+
+[properties]
+AssemblyName=C#
+CommandLineArgsForDesignTimeEvaluation=-langversion:13.0 -define:TRACE
+CompilerGeneratedFilesOutputPath=
+MaxSupportedLangVersion=13.0
+ProjectAssetsFile=<PATH>obj/project.assets.json
+RootNamespace=C_
+RunAnalyzers=
+RunAnalyzersDuringLiveAnalysis=
+SolutionPath=*Undefined*
+TargetFrameworkIdentifier=.NETCoreApp
+TargetPath=<PATH>bin/Debug/net9.0/C#.dll
+TargetRefPath=<PATH>obj/Debug/net9.0/ref/C#.dll
+TemporaryDependencyNodeTargetIdentifier=net9.0
+
+[commandLineArguments]
+/noconfig
+/unsafe-
+/checked-
+/nowarn:1701,1702,1701,1702,8002
+/fullpaths
+/nostdlib+
+/errorreport:prompt
+/warn:9
+/define:TRACE;DEBUG;NET;NET9_0;NETCOREAPP;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP1_0_OR_GREATER;NETCOREAPP1_1_OR_GREATER;NETCOREAPP2_0_OR_GREATER;NETCOREAPP2_1_OR_GREATER;NETCOREAPP2_2_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER
+/highentropyva+
+/nullable:enable
+/debug+
+/debug:portable
+/filealign:512
+/optimize-
+/out:"obj\Debug\net9.0\C#.dll"
+/refout:"obj\Debug\net9.0\refint\C#.dll"
+/target:exe
+/warnaserror-
+/utf8output
+/deterministic+
+/langversion:13.0
+/warnaserror+:NU1605,SYSLIB0011
+
+[sourceFiles]
+c# Logica de programação/Seção 1 - Estutura sequencial/DebugVs/DebugVs/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ DebugVs.AssemblyInfo.cs
+ DebugVs.GlobalUsings.g.cs
+c# Logica de programação/Seção 1 - Estutura sequencial/
+ DebugVs/DebugVs/Program.cs
+ EntradaDeDadosPArt1/EntradaDeDadosPArt1/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  EntradaDeDadosPArt1.AssemblyInfo.cs
+  EntradaDeDadosPArt1.GlobalUsings.g.cs
+ EntradaDeDadosPArt1/EntradaDeDadosPArt1/Program.cs
+ EntradaDeDadosParte2/EntradaDeDadosParte2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  EntradaDeDadosParte2.AssemblyInfo.cs
+  EntradaDeDadosParte2.GlobalUsings.g.cs
+ EntradaDeDadosParte2/EntradaDeDadosParte2/Program.cs
+ Ex1/Ex1/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex1.AssemblyInfo.cs
+  Ex1.GlobalUsings.g.cs
+ Ex1/Ex1/Program.cs
+ Ex2/Ex2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex2.AssemblyInfo.cs
+  Ex2.GlobalUsings.g.cs
+ Ex2/Ex2/Program.cs
+ Ex4/Ex4/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex4.AssemblyInfo.cs
+  Ex4.GlobalUsings.g.cs
+ Ex4/Ex4/Program.cs
+ Ex5/Ex5/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex5.AssemblyInfo.cs
+  Ex5.GlobalUsings.g.cs
+ Ex5/Ex5/Program.cs
+ Ex6/Ex6/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex6.AssemblyInfo.cs
+  Ex6.GlobalUsings.g.cs
+ Ex6/Ex6/Program.cs
+ FuncoeSMatematicas/FuncoeSMatematicas/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  FuncoeSMatematicas.AssemblyInfo.cs
+  FuncoeSMatematicas.GlobalUsings.g.cs
+ FuncoeSMatematicas/FuncoeSMatematicas/Program.cs
+ PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  PrimeiroProjeto.AssemblyInfo.cs
+  PrimeiroProjeto.GlobalUsings.g.cs
+ PrimeiroProjeto/PrimeiroProjeto/Program.cs
+ Problema1/Problema1/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Problema1.AssemblyInfo.cs
+  Problema1.GlobalUsings.g.cs
+ Problema1/Problema1/Program.cs
+ ProcessamentoDeDados/ProcessamentoDeDados/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ProcessamentoDeDados.AssemblyInfo.cs
+  ProcessamentoDeDados.GlobalUsings.g.cs
+ ProcessamentoDeDados/ProcessamentoDeDados/Program.cs
+ SaidaDeDados/SaidaDeDados/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  SaidaDeDados.AssemblyInfo.cs
+  SaidaDeDados.GlobalUsings.g.cs
+ SaidaDeDados/SaidaDeDados/Program.cs
+ UriProblemas/UriProblemas/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  UriProblemas.AssemblyInfo.cs
+  UriProblemas.GlobalUsings.g.cs
+ UriProblemas/UriProblemas/Program.cs
+c# Logica de programação/Seção 2 - Estutura condicional/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ ConsoleApp1.AssemblyInfo.cs
+ ConsoleApp1.GlobalUsings.g.cs
+c# Logica de programação/Seção 2 - Estutura condicional/
+ ConsoleApp1/ConsoleApp1/Program.cs
+ Estrutura Condicional/Estrutura Condicional/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Estrutura Condicional.AssemblyInfo.cs
+  Estrutura Condicional.GlobalUsings.g.cs
+ Estrutura Condicional/Estrutura Condicional/Program.cs
+ Ex while/Ex while/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex while.AssemblyInfo.cs
+  Ex while.GlobalUsings.g.cs
+ Ex while/Ex while/Program.cs
+ Ex1/Ex1/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex1.AssemblyInfo.cs
+  Ex1.GlobalUsings.g.cs
+ Ex1/Ex1/Program.cs
+ Ex2/Ex2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex2.AssemblyInfo.cs
+  Ex2.GlobalUsings.g.cs
+ Ex2/Ex2/Program.cs
+ Ex4/Ex4/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex4.AssemblyInfo.cs
+  Ex4.GlobalUsings.g.cs
+ Ex4/Ex4/Program.cs
+ Operadores de atribuição cumulativa/Operadores de atribuição cumulativa/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Operadores de atribuição cumulativa.AssemblyInfo.cs
+  Operadores de atribuição cumulativa.GlobalUsings.g.cs
+ Operadores de atribuição cumulativa/Operadores de atribuição cumulativa/Program.cs
+ SwicthCaser/SwicthCaser/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  SwicthCaser.AssemblyInfo.cs
+  SwicthCaser.GlobalUsings.g.cs
+ SwicthCaser/SwicthCaser/Program.cs
+ UriOnlineJU/UriOnlineJU/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  UriOnlineJU.AssemblyInfo.cs
+  UriOnlineJU.GlobalUsings.g.cs
+ UriOnlineJU/UriOnlineJU/Program.cs
+ While/While/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  While.AssemblyInfo.cs
+  While.GlobalUsings.g.cs
+ While/While/Program.cs
+c# Logica de programação/Seção 3 - Estruturas repetitivas/DoWhile/DoWhile/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ DoWhile.AssemblyInfo.cs
+ DoWhile.GlobalUsings.g.cs
+c# Logica de programação/Seção 3 - Estruturas repetitivas/
+ DoWhile/DoWhile/Program.cs
+ Estrutura for/Estrutura for/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Estrutura for.AssemblyInfo.cs
+  Estrutura for.GlobalUsings.g.cs
+ Estrutura for/Estrutura for/Program.cs
+ ExFor1/ExFor1/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExFor1.AssemblyInfo.cs
+  ExFor1.GlobalUsings.g.cs
+ ExFor1/ExFor1/Program.cs
+ ExFor2/ExFor2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExFor2.AssemblyInfo.cs
+  ExFor2.GlobalUsings.g.cs
+ ExFor2/ExFor2/Program.cs
+ ExWhile2/ExWhile2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExWhile2.AssemblyInfo.cs
+  ExWhile2.GlobalUsings.g.cs
+ ExWhile2/ExWhile2/Program.cs
+ UriOnlineJudge/UriOnlineJudge/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  UriOnlineJudge.AssemblyInfo.cs
+  UriOnlineJudge.GlobalUsings.g.cs
+ UriOnlineJudge/UriOnlineJudge/Program.cs
+ UriOnlineJudge2/UriOnlineJudge2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  UriOnlineJudge2.AssemblyInfo.cs
+  UriOnlineJudge2.GlobalUsings.g.cs
+ UriOnlineJudge2/UriOnlineJudge2/Program.cs
+ While/While/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  While.AssemblyInfo.cs
+  While.GlobalUsings.g.cs
+ While/While/Program.cs
+c# Logica de programação/Seção 4 - Vetores/Ex Vetor 3/Ex Vetor 3/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ Ex Vetor 3.AssemblyInfo.cs
+ Ex Vetor 3.GlobalUsings.g.cs
+c# Logica de programação/Seção 4 - Vetores/
+ Ex Vetor 3/Ex Vetor 3/Program.cs
+ Ex Vetor1/Ex Vetor1/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex Vetor1.AssemblyInfo.cs
+  Ex Vetor1.GlobalUsings.g.cs
+ Ex Vetor1/Ex Vetor1/Program.cs
+ ExVetor2/ExVetor2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExVetor2.AssemblyInfo.cs
+  ExVetor2.GlobalUsings.g.cs
+ ExVetor2/ExVetor2/Program.cs
+ Foreach/Foreach/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Foreach.AssemblyInfo.cs
+  Foreach.GlobalUsings.g.cs
+ Foreach/Foreach/Program.cs
+ Lista ex Vetores/Lista ex Vetores/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Lista ex Vetores.AssemblyInfo.cs
+  Lista ex Vetores.GlobalUsings.g.cs
+ Lista ex Vetores/Lista ex Vetores/Program.cs
+ Vetores/Vetores/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Vetores.AssemblyInfo.cs
+  Vetores.GlobalUsings.g.cs
+ Vetores/Vetores/Program.cs
+c# Logica de programação/Seção 5 - Matrizes/Ex2Matriz/Ex2Matriz/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ Ex2Matriz.AssemblyInfo.cs
+ Ex2Matriz.GlobalUsings.g.cs
+c# Logica de programação/Seção 5 - Matrizes/
+ Ex2Matriz/Ex2Matriz/Program.cs
+ Lista de exercicios  Matriz/Lista de exercicios  Matriz/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Lista de exercicios  Matriz.AssemblyInfo.cs
+  Lista de exercicios  Matriz.GlobalUsings.g.cs
+ Lista de exercicios  Matriz/Lista de exercicios  Matriz/Program.cs
+ Matriz ex 1/Matriz ex 1/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Matriz ex 1.AssemblyInfo.cs
+  Matriz ex 1.GlobalUsings.g.cs
+ Matriz ex 1/Matriz ex 1/Program.cs
+ Matriz/Matriz/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Matriz.AssemblyInfo.cs
+  Matriz.GlobalUsings.g.cs
+ Matriz/Matriz/Program.cs
+c# POO/Seção 10 - Trabalhando com arquivos/BlocoUsing/BlocoUsing/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ BlocoUsing.AssemblyInfo.cs
+ BlocoUsing.GlobalUsings.g.cs
+c# POO/Seção 10 - Trabalhando com arquivos/
+ BlocoUsing/BlocoUsing/Program.cs
+ DirectoryDirectoryInfo/DirectoryDirectoryInfo/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  DirectoryDirectoryInfo.AssemblyInfo.cs
+  DirectoryDirectoryInfo.GlobalUsings.g.cs
+ DirectoryDirectoryInfo/DirectoryDirectoryInfo/Program.cs
+ ExBlocoUsing/ExBlocoUsing/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExBlocoUsing.AssemblyInfo.cs
+  ExBlocoUsing.GlobalUsings.g.cs
+ ExBlocoUsing/ExBlocoUsing/Program.cs
+ Exercicio de fixação/Exercicio de fixação/
+  Class/Produtos.cs
+  Exceptions/ExceptionDomain.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   Exercicio de fixação.AssemblyInfo.cs
+   Exercicio de fixação.GlobalUsings.g.cs
+  Program.cs
+ ExercicioFixacaoSegundaForma/ExercicioFixacaoSegundaForma/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioFixacaoSegundaForma.AssemblyInfo.cs
+  ExercicioFixacaoSegundaForma.GlobalUsings.g.cs
+ ExercicioFixacaoSegundaForma/ExercicioFixacaoSegundaForma/Program.cs
+ ExerciciosDirectoryDirectoryInfo/ExerciciosDirectoryDirectoryInfo/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosDirectoryDirectoryInfo.AssemblyInfo.cs
+  ExerciciosDirectoryDirectoryInfo.GlobalUsings.g.cs
+ ExerciciosDirectoryDirectoryInfo/ExerciciosDirectoryDirectoryInfo/Program.cs
+ ExerciciosFileFileInfo/ExerciciosFileFileInfo/
+  Entites/Logger.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExerciciosFileFileInfo.AssemblyInfo.cs
+   ExerciciosFileFileInfo.GlobalUsings.g.cs
+  Program.cs
+ ExerciciosFileStreamStreamReader/ExerciciosFileStreamStreamReader/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosFileStreamStreamReader.AssemblyInfo.cs
+  ExerciciosFileStreamStreamReader.GlobalUsings.g.cs
+ ExerciciosFileStreamStreamReader/ExerciciosFileStreamStreamReader/Program.cs
+ ExerCiciosFinais/ExerCiciosFinais/
+  Class/Itens.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExerCiciosFinais.AssemblyInfo.cs
+   ExerCiciosFinais.GlobalUsings.g.cs
+  Program.cs
+ ExercicioStreamWrite/ExercicioStreamWrite/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioStreamWrite.AssemblyInfo.cs
+  ExercicioStreamWrite.GlobalUsings.g.cs
+ ExercicioStreamWrite/ExercicioStreamWrite/Program.cs
+ ExerciciosUsing/ExerciciosUsing/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosUsing.AssemblyInfo.cs
+  ExerciciosUsing.GlobalUsings.g.cs
+ ExerciciosUsing/ExerciciosUsing/Program.cs
+ FileFileInfoeIOException/FileFileInfoeIOException/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  FileFileInfoeIOException.AssemblyInfo.cs
+  FileFileInfoeIOException.GlobalUsings.g.cs
+ FileFileInfoeIOException/FileFileInfoeIOException/Program.cs
+ FileStreamEStreamReader/FileStreamEStreamReader/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  FileStreamEStreamReader.AssemblyInfo.cs
+  FileStreamEStreamReader.GlobalUsings.g.cs
+ FileStreamEStreamReader/FileStreamEStreamReader/Program.cs
+ ListaExerciciosTodoCapitulo/ListaExerciciosTodoCapitulo/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ListaExerciciosTodoCapitulo.AssemblyInfo.cs
+  ListaExerciciosTodoCapitulo.GlobalUsings.g.cs
+ ListaExerciciosTodoCapitulo/ListaExerciciosTodoCapitulo/Program.cs
+ Path/Path/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Path.AssemblyInfo.cs
+  Path.GlobalUsings.g.cs
+ Path/Path/Program.cs
+ StreamWriter/StreamWriter/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  StreamWriter.AssemblyInfo.cs
+  StreamWriter.GlobalUsings.g.cs
+ StreamWriter/StreamWriter/Program.cs
+c# POO/Seção 11 - Interfaces/Course/InversaoDeControleEInjecaoDeDependencia/
+ ContractService.cs
+ Entites/Class/
+  Contract.cs
+  Installment.cs
+ Entites/Interface/
+  IOnlinePaymentService.cs
+  PaypalService.cs
+ obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  InversaoDeControleEInjecaoDeDependencia.AssemblyInfo.cs
+  InversaoDeControleEInjecaoDeDependencia.GlobalUsings.g.cs
+ Program.cs
+c# POO/Seção 11 - Interfaces/ExcerciciosInterfaces/ExcerciciosInterfaces/Ex1/Class/
+ EmailService.cs
+ SecuritySystem.cs
+ SmsService.cs
+c# POO/Seção 11 - Interfaces/ExcerciciosInterfaces/ExcerciciosInterfaces/
+ Ex1/Services/IMessageService.cs
+ Ex2/Class/
+  MagicStaff.cs
+  Player.cs
+  Sword.cs
+ Ex2/Services/IWeapon.cs
+ Ex3/Class/
+  BillingService.cs
+  Entites/
+   Invoice.cs
+   Subscription.cs
+  Interface/
+   IDiscountService.cs
+   NoDiscountService.cs
+   StudentDiscountService.cs
+ Ex4/Class/
+  BlacksmithService.cs
+  Entites/CraftingResult.cs
+  Interface/
+   IMaterialModifier.cs
+   ScrapModifier.cs
+   SteelModifier.cs
+ Ex5/Class/
+  HealReport.cs
+  MedicalService.cs
+  PlayerVitals.cs
+ Ex5/Interface/
+  CriticalInfectionState.cs
+  HealthyState.cs
+  IInfectionState.cs
+ Ex6/
+  Class/CombatService.cs
+  Interface/
+   ArmorPiercingAmmo.cs
+   HollowPointAmmo.cs
+   IAmmoType.cs
+  Services/
+   CombatLog.cs
+   EnemyTarget.cs
+ obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExcerciciosInterfaces.AssemblyInfo.cs
+  ExcerciciosInterfaces.GlobalUsings.g.cs
+ Program.cs
+c# POO/Seção 11 - Interfaces/ExerciciosIComparable/ExerciciosIComparable/
+ Ex1/Item.cs
+ Ex2/Jogador.cs
+ Ex3/CampeaoLol.cs
+ obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosIComparable.AssemblyInfo.cs
+  ExerciciosIComparable.GlobalUsings.g.cs
+ Program.cs
+c# POO/Seção 11 - Interfaces/ExerciciosMultiplasInterfaces/ExerciciosMultiplasInterfaces/Ex1/Entites/
+ Class/AldeaoFerreiro.cs
+ Interfaces/
+  IComerciante.cs
+  IFerreiro.cs
+c# POO/Seção 11 - Interfaces/ExerciciosMultiplasInterfaces/ExerciciosMultiplasInterfaces/Ex2/Entites/
+ Class/Monstro.cs
+ Hunter.cs
+ Interfaces/
+  IExplosivo.cs
+  IVenenoso.cs
+ Nemesis.cs
+c# POO/Seção 11 - Interfaces/ExerciciosMultiplasInterfaces/ExerciciosMultiplasInterfaces/Ex3/Entites/Class1/
+ ApuIntegrada.cs
+ Rtx3060.cs
+ Ryzen5.cs
+c# POO/Seção 11 - Interfaces/ExerciciosMultiplasInterfaces/ExerciciosMultiplasInterfaces/Ex3/Entites/Interfaces/
+ IPlacaDeVideo.cs
+ IProcessador.cs
+c# POO/Seção 11 - Interfaces/ExerciciosMultiplasInterfaces/ExerciciosMultiplasInterfaces/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ ExerciciosMultiplasInterfaces.AssemblyInfo.cs
+ ExerciciosMultiplasInterfaces.GlobalUsings.g.cs
+c# POO/Seção 11 - Interfaces/
+ ExerciciosMultiplasInterfaces/ExerciciosMultiplasInterfaces/Program.cs
+ ExericiosInterfaceEHerança/ExericiosInterfaceEHerança/Ex1/Entites/Class/
+  Campeao.cs
+  Mago.cs
+  Tanque.cs
+ ExericiosInterfaceEHerança/ExericiosInterfaceEHerança/Ex2/Entites/
+  Class/Porta.cs
+  Interfaces/
+   CartaoMagnetico.cs
+   ChaveDeEspadas.cs
+   IDestravavel.cs
+ ExericiosInterfaceEHerança/ExericiosInterfaceEHerança/Ex3/Entites/Class/
+  Arma.cs
+  EscopetaCanoDuplo.cs
+ ExericiosInterfaceEHerança/ExericiosInterfaceEHerança/Ex3/Entites/Interfaces/
+  IEFeitoTiro.cs
+  TiroExplosivo.cs
+  TiroPlasma.cs
+ ExericiosInterfaceEHerança/ExericiosInterfaceEHerança/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExericiosInterfaceEHerança.AssemblyInfo.cs
+  ExericiosInterfaceEHerança.GlobalUsings.g.cs
+ ExericiosInterfaceEHerança/ExericiosInterfaceEHerança/Program.cs
+ HerançasMultiplasEoProblemaDoDiamante/HerançasMultiplasEoProblemaDoDiamante/Entites/Class/
+  ComboDevice.cs
+  Device.cs
+  Printer.cs
+  Scanner.cs
+ HerançasMultiplasEoProblemaDoDiamante/HerançasMultiplasEoProblemaDoDiamante/Entites/Interface/
+  IPrinter.cs
+  IScanner.cs
+ HerançasMultiplasEoProblemaDoDiamante/HerançasMultiplasEoProblemaDoDiamante/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  HerançasMultiplasEoProblemaDoDiamante.AssemblyInfo.cs
+  HerançasMultiplasEoProblemaDoDiamante.GlobalUsings.g.cs
+ HerançasMultiplasEoProblemaDoDiamante/HerançasMultiplasEoProblemaDoDiamante/Program.cs
+ HerdarVsCumprirContrato/HerdarVsCumprirContrato/Entites/Class/
+  Circle.cs
+  Rectangle.cs
+ HerdarVsCumprirContrato/HerdarVsCumprirContrato/Entites/
+  Enuns/Color.cs
+  Interface/
+   AbastractShape.cs
+   IShape.cs
+ HerdarVsCumprirContrato/HerdarVsCumprirContrato/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  HerdarVsCumprirContrato.AssemblyInfo.cs
+  HerdarVsCumprirContrato.GlobalUsings.g.cs
+ HerdarVsCumprirContrato/HerdarVsCumprirContrato/Program.cs
+ InterfaceIComparable/InterfaceIComparable/
+  Entites/Employer.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   InterfaceIComparable.AssemblyInfo.cs
+   InterfaceIComparable.GlobalUsings.g.cs
+  Program.cs
+ ListaDeExercicios2/ListaDeExercicios2/Ex1/Interface/
+  IMensageiro.cs
+  SmsMensageiro.cs
+ ListaDeExercicios2/ListaDeExercicios2/
+  Ex1/SistemaDeAlerta.cs
+  Ex10/Class/
+   ContratoEspacial.cs
+   Financiamento.cs
+   Parcelas.cs
+  Ex10/Interface/
+   BancoEstelar.cs
+   ITaxaIntergalactica.cs
+  Ex2/
+   Class/Loja.cs
+   Interface/
+    DescontoVip.cs
+    IDesconto.cs
+  Ex3/Class/Invasao.cs
+  Ex4/Class/
+   Inventario.cs
+   Pocao.cs
+  Ex5/
+   Class/Arma.cs
+   Interface/
+    BalaComum.cs
+    IMunicao.cs
+  Ex6/NewFolder/Nave.cs
+  Ex7/NewFolder/Ferreiro.cs
+  Ex9/Class/
+   AssinaturaService.cs
+   Fatura.cs
+  Ex9/Interface/
+   ITaxa.cs
+   TaxaBasica.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ListaDeExercicios2.AssemblyInfo.cs
+   ListaDeExercicios2.GlobalUsings.g.cs
+  Program.cs
+ Problema1/Problema1/Entites/
+  CarRental.cs
+  Exception/ExceptionDomain.cs
+ Problema1/Problema1/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Problema1.AssemblyInfo.cs
+  Problema1.GlobalUsings.g.cs
+ Problema1/Problema1/Program.cs
+ SolucaoComInterfaces/SolucaoComInterfaces/Entites/Class/
+  CarRental.cs
+  Invoice.cs
+  RentalService.cs
+  Vehicle.cs
+ SolucaoComInterfaces/SolucaoComInterfaces/Entites/Services/
+  BrazilTaxService.cs
+  ITaxService.cs
+ SolucaoComInterfaces/SolucaoComInterfaces/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  SolucaoComInterfaces.AssemblyInfo.cs
+  SolucaoComInterfaces.GlobalUsings.g.cs
+ SolucaoComInterfaces/SolucaoComInterfaces/Program.cs
+ SoluçãoSemInterface/SoluçãoSemInterface/Entites/Class/
+  CarRental.cs
+  Invoice.cs
+  RentalService.cs
+  Vehicle.cs
+ SoluçãoSemInterface/SoluçãoSemInterface/
+  Entites/Services/BrazilTaxService.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   SoluçãoSemInterface.AssemblyInfo.cs
+   SoluçãoSemInterface.GlobalUsings.g.cs
+  Program.cs
+c# POO/Seção 12 - Generics,Set,Dictionary/ComoColecaoHashTestamIgualdade/ComoColecaoHashTestamIgualdade/Entites/
+ Point.cs
+ Product.cs
+c# POO/Seção 12 - Generics,Set,Dictionary/ComoColecaoHashTestamIgualdade/ComoColecaoHashTestamIgualdade/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ ComoColecaoHashTestamIgualdade.AssemblyInfo.cs
+ ComoColecaoHashTestamIgualdade.GlobalUsings.g.cs
+c# POO/Seção 12 - Generics,Set,Dictionary/
+ ComoColecaoHashTestamIgualdade/ComoColecaoHashTestamIgualdade/Program.cs
+ DictionaryESortedDictionary/DictionaryESortedDictionary/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  DictionaryESortedDictionary.AssemblyInfo.cs
+  DictionaryESortedDictionary.GlobalUsings.g.cs
+ DictionaryESortedDictionary/DictionaryESortedDictionary/Program.cs
+ DictionaryExercicios/DictionaryExercicios/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  DictionaryExercicios.AssemblyInfo.cs
+  DictionaryExercicios.GlobalUsings.g.cs
+ DictionaryExercicios/DictionaryExercicios/Program.cs
+ ExercicioPropostoDicionario/ExercicioPropostoDicionario/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioPropostoDicionario.AssemblyInfo.cs
+  ExercicioPropostoDicionario.GlobalUsings.g.cs
+ ExercicioPropostoDicionario/ExercicioPropostoDicionario/Program.cs
+ ExercicioPropostoSobreConjuntos/ExercicioPropostoSobreConjuntos/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioPropostoSobreConjuntos.AssemblyInfo.cs
+  ExercicioPropostoSobreConjuntos.GlobalUsings.g.cs
+ ExercicioPropostoSobreConjuntos/ExercicioPropostoSobreConjuntos/Program.cs
+ ExercicosSobreConjutos/ExercicosSobreConjutos/
+  Class/User.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExercicosSobreConjutos.AssemblyInfo.cs
+   ExercicosSobreConjutos.GlobalUsings.g.cs
+  Program.cs
+ Generics/Generics/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Generics.AssemblyInfo.cs
+  Generics.GlobalUsings.g.cs
+ Generics/Generics/
+  Problema1/PrintService.cs
+  Program.cs
+ GenericsExercicios/GenericsExercicios/
+  Ex1/Cofre.cs
+  Ex10/Ordenador.cs
+  Ex11/
+   Class/Repositorio.cs
+   Interface/
+    Cliente.cs
+    IEntidade.cs
+  Ex2/RegistroDuplo.cs
+  Ex3/Avaliador.cs
+  Ex4/FilaTrabalho.cs
+  Ex5/Fabrica.cs
+  Ex6/Armazem.cs
+  Ex7/Buscador.cs
+  Ex8/
+   Class/CalcularEstoque.cs
+   Interface/
+    IProduto.cs
+    Livro.cs
+    PlacaDeVideo.cs
+  Ex9/Class/Relatorio.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   GenericsExercicios.AssemblyInfo.cs
+   GenericsExercicios.GlobalUsings.g.cs
+  Program.cs
+ GenericsRestricoes/GenericsRestricoes/
+  Ex1/Class/Caixa.cs
+  Ex2/Class/Magia.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   GenericsRestricoes.AssemblyInfo.cs
+   GenericsRestricoes.GlobalUsings.g.cs
+  Program.cs
+ GetHashCoideEEquals/GetHashCoideEEquals/
+  Class/Client.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   GetHashCoideEEquals.AssemblyInfo.cs
+   GetHashCoideEEquals.GlobalUsings.g.cs
+  Program.cs
+ HashcodeEqualsExercicios/HashcodeEqualsExercicios/
+  Ex1/Produto.cs
+  Ex2/Cordenada.cs
+  Ex3/Usuario.cs
+  Ex4/Carro.cs
+  Ex5/
+   Funcionario.cs
+   Gerente.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   HashcodeEqualsExercicios.AssemblyInfo.cs
+   HashcodeEqualsExercicios.GlobalUsings.g.cs
+  Program.cs
+ HasHSetESortedSet/HasHSetESortedSet/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  HasHSetESortedSet.AssemblyInfo.cs
+  HasHSetESortedSet.GlobalUsings.g.cs
+ HasHSetESortedSet/HasHSetESortedSet/Program.cs
+ HeashSetSortedSetExercicios/HeashSetSortedSetExercicios/
+  Ex8/Produto.cs
+  Ex9/Aluno.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   HeashSetSortedSetExercicios.AssemblyInfo.cs
+   HeashSetSortedSetExercicios.GlobalUsings.g.cs
+  Program.cs
+ RestricoesParaGenerics/RestricoesParaGenerics/Class/
+  CalculationService.cs
+  Product.cs
+ RestricoesParaGenerics/RestricoesParaGenerics/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  RestricoesParaGenerics.AssemblyInfo.cs
+  RestricoesParaGenerics.GlobalUsings.g.cs
+ RestricoesParaGenerics/RestricoesParaGenerics/Program.cs
+c# POO/Seção 13 - Tópicos especiais em C#- PARTE 2/ExtensionMethotsExercicios/ExtensionMethotsExercicios/Extension/
+ DateTimeExtension.cs
+ DictonaryExtension.cs
+ DoubleExtension.cs
+ IntExtension.cs
+ ListExtension.cs
+ StringExtension.cs
+c# POO/Seção 13 - Tópicos especiais em C#- PARTE 2/ExtensionMethotsExercicios/ExtensionMethotsExercicios/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ ExtensionMethotsExercicios.AssemblyInfo.cs
+ ExtensionMethotsExercicios.GlobalUsings.g.cs
+c# POO/Seção 13 - Tópicos especiais em C#- PARTE 2/
+ ExtensionMethotsExercicios/ExtensionMethotsExercicios/Program.cs
+ ExtesionMethods/ExtesionMethods/Extensions/
+  DatimeExtensions.cs
+  StringExtension.cs
+ ExtesionMethods/ExtesionMethods/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExtesionMethods.AssemblyInfo.cs
+  ExtesionMethods.GlobalUsings.g.cs
+ ExtesionMethods/ExtesionMethods/Program.cs
+c# POO/Seção 14 - Expressões lambda,delegates,LINQ/Action(ExemploComForeach)/Action(ExemploComForeach)/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ Action(ExemploComForeach).AssemblyInfo.cs
+ Action(ExemploComForeach).GlobalUsings.g.cs
+c# POO/Seção 14 - Expressões lambda,delegates,LINQ/Action(ExemploComForeach)/Action(ExemploComForeach)/
+ Product.cs
+ Program.cs
+c# POO/Seção 14 - Expressões lambda,delegates,LINQ/ActionExercicos/ActionExercicos/Entites/
+ Enemy.cs
+ Product.cs
+c# POO/Seção 14 - Expressões lambda,delegates,LINQ/ActionExercicos/ActionExercicos/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ ActionExercicos.AssemblyInfo.cs
+ ActionExercicos.GlobalUsings.g.cs
+c# POO/Seção 14 - Expressões lambda,delegates,LINQ/
+ ActionExercicos/ActionExercicos/Program.cs
+ Compariosn/Compariosn/
+  Entites/Product.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   Compariosn.AssemblyInfo.cs
+   Compariosn.GlobalUsings.g.cs
+  Program.cs
+ Demo -LINQ com lambda/Demo -LINQ com lambda/Entites/
+  Category.cs
+  Product.cs
+ Demo -LINQ com lambda/Demo -LINQ com lambda/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Demo -LINQ com lambda.AssemblyInfo.cs
+  Demo -LINQ com lambda.GlobalUsings.g.cs
+ Demo -LINQ com lambda/Demo -LINQ com lambda/Program.cs
+ ExerciciosComparison/ExerciciosComparison/Entites/
+  Employee.cs
+  TaskItem.cs
+ ExerciciosComparison/ExerciciosComparison/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosComparison.AssemblyInfo.cs
+  ExerciciosComparison.GlobalUsings.g.cs
+ ExerciciosComparison/ExerciciosComparison/Program.cs
+ ExerciciosDelegates/ExerciciosDelegates/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosDelegates.AssemblyInfo.cs
+  ExerciciosDelegates.GlobalUsings.g.cs
+ ExerciciosDelegates/ExerciciosDelegates/Program.cs
+ ExerciciosLINQ/ExerciciosLINQ/
+  Enemy.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExerciciosLINQ.AssemblyInfo.cs
+   ExerciciosLINQ.GlobalUsings.g.cs
+  Program.cs
+  Weapon.cs
+ Func(Exemplo com Select)/Func(Exemplo com Select)/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Func(Exemplo com Select).AssemblyInfo.cs
+  Func(Exemplo com Select).GlobalUsings.g.cs
+ Func(Exemplo com Select)/Func(Exemplo com Select)/
+  Product.cs
+  Program.cs
+ FuncExercicios/FuncExercicios/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  FuncExercicios.AssemblyInfo.cs
+  FuncExercicios.GlobalUsings.g.cs
+ FuncExercicios/FuncExercicios/
+  Program.cs
+  Weapon.cs
+ IntroducaoAoDelegate/IntroducaoAoDelegate/
+  CalculationService.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   IntroducaoAoDelegate.AssemblyInfo.cs
+   IntroducaoAoDelegate.GlobalUsings.g.cs
+  Program.cs
+ IntroducaoAoLIQN/IntroducaoAoLIQN/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  IntroducaoAoLIQN.AssemblyInfo.cs
+  IntroducaoAoLIQN.GlobalUsings.g.cs
+ IntroducaoAoLIQN/IntroducaoAoLIQN/Program.cs
+ Linq com Lambda Exercicios/Linq com Lambda Exercicios/Entites/
+  Category.cs
+  Product.cs
+ Linq com Lambda Exercicios/Linq com Lambda Exercicios/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Linq com Lambda Exercicios.AssemblyInfo.cs
+  Linq com Lambda Exercicios.GlobalUsings.g.cs
+ Linq com Lambda Exercicios/Linq com Lambda Exercicios/Program.cs
+ MulticastDelegates/MulticastDelegates/
+  Entites/CalculationService.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   MulticastDelegates.AssemblyInfo.cs
+   MulticastDelegates.GlobalUsings.g.cs
+  Program.cs
+ MultiDelegatesExercicios/MultiDelegatesExercicios/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  MultiDelegatesExercicios.AssemblyInfo.cs
+  MultiDelegatesExercicios.GlobalUsings.g.cs
+ MultiDelegatesExercicios/MultiDelegatesExercicios/Program.cs
+ Operações do LINQ Ref/Operações do LINQ Ref/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Operações do LINQ Ref.AssemblyInfo.cs
+  Operações do LINQ Ref.GlobalUsings.g.cs
+ Operações do LINQ Ref/Operações do LINQ Ref/
+  Program.cs
+  Weapon.cs
+ Predicate(exemplo com RemoveAll)/Predicate(exemplo com RemoveAll)/
+  Entites/Product.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   Predicate(exemplo com RemoveAll).AssemblyInfo.cs
+   Predicate(exemplo com RemoveAll).GlobalUsings.g.cs
+  Program.cs
+ PredicateExercicios/PredicateExercicios/
+  Entites/Enemy.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   PredicateExercicios.AssemblyInfo.cs
+   PredicateExercicios.GlobalUsings.g.cs
+  Program.cs
+ ProgramacaoFuncionalECalculoLambda/ProgramacaoFuncionalECalculoLambda/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ProgramacaoFuncionalECalculoLambda.AssemblyInfo.cs
+  ProgramacaoFuncionalECalculoLambda.GlobalUsings.g.cs
+ ProgramacaoFuncionalECalculoLambda/ProgramacaoFuncionalECalculoLambda/Program.cs
+c# POO/Seção 2 - Recapitulação de Lógica de Programação usando C#/Conversão implicista/Conversão implicista/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ Conversão implicista.AssemblyInfo.cs
+ Conversão implicista.GlobalUsings.g.cs
+c# POO/Seção 2 - Recapitulação de Lógica de Programação usando C#/
+ Conversão implicista/Conversão implicista/Program.cs
+ Course/Course/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Course.AssemblyInfo.cs
+  Course.GlobalUsings.g.cs
+  Course.RazorAssemblyInfo.cs
+ Course/Course/Pages/
+  Error.cshtml.cs
+  Index.cshtml.cs
+  Privacy.cshtml.cs
+ Course/Course/Program.cs
+ Couse/Couse/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Couse.AssemblyInfo.cs
+  Couse.GlobalUsings.g.cs
+ Couse/Couse/Program.cs
+ Debuggin visual Studios/Debuggin visual Studios/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Debuggin visual Studios.AssemblyInfo.cs
+  Debuggin visual Studios.GlobalUsings.g.cs
+ Debuggin visual Studios/Debuggin visual Studios/Program.cs
+ Entrada de dados parte 2/Entrada de dados parte 2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Entrada de dados parte 2.AssemblyInfo.cs
+  Entrada de dados parte 2.GlobalUsings.g.cs
+ Entrada de dados parte 2/Entrada de dados parte 2/Program.cs
+ EntradaDeDados/EntradaDeDados/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  EntradaDeDados.AssemblyInfo.cs
+  EntradaDeDados.GlobalUsings.g.cs
+ EntradaDeDados/EntradaDeDados/Program.cs
+ Escopo e inicialização/Escopo e inicialização/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Escopo e inicialização.AssemblyInfo.cs
+  Escopo e inicialização.GlobalUsings.g.cs
+ Escopo e inicialização/Escopo e inicialização/Program.cs
+ Estrutura repetitiva for/Estrutura repetitiva for/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Estrutura repetitiva for.AssemblyInfo.cs
+  Estrutura repetitiva for.GlobalUsings.g.cs
+ Estrutura repetitiva for/Estrutura repetitiva for/Program.cs
+ EstruturaCondicional(if-else)/EstruturaCondicional(if-else)/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  EstruturaCondicional(if-else).AssemblyInfo.cs
+  EstruturaCondicional(if-else).GlobalUsings.g.cs
+ EstruturaCondicional(if-else)/EstruturaCondicional(if-else)/Program.cs
+ Estruturas repetitivas enquanto(while)/Estruturas repetitivas enquanto(while)/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Estruturas repetitivas enquanto(while).AssemblyInfo.cs
+  Estruturas repetitivas enquanto(while).GlobalUsings.g.cs
+ Estruturas repetitivas enquanto(while)/Estruturas repetitivas enquanto(while)/Program.cs
+ Ex Entrada de dados/Ex Entrada de dados/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex Entrada de dados.AssemblyInfo.cs
+  Ex Entrada de dados.GlobalUsings.g.cs
+ Ex Entrada de dados/Ex Entrada de dados/Program.cs
+ Ex Estrutura condicional/Ex Estrutura condicional/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex Estrutura condicional.AssemblyInfo.cs
+  Ex Estrutura condicional.GlobalUsings.g.cs
+ Ex Estrutura condicional/Ex Estrutura condicional/Program.cs
+ Ex for/Ex for/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex for.AssemblyInfo.cs
+  Ex for.GlobalUsings.g.cs
+ Ex for/Ex for/Program.cs
+ Ex While/Ex While/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex While.AssemblyInfo.cs
+  Ex While.GlobalUsings.g.cs
+ Ex While/Ex While/Program.cs
+ Exercicio1Cap3/Exercicio1Cap3/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Exercicio1Cap3..AssemblyInfo.cs
+  Exercicio1Cap3..GlobalUsings.g.cs
+ Exercicio1Cap3/Exercicio1Cap3/Program.cs
+ ExExtruturaSequencial/ExExtruturaSequencial/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExExtruturaSequencial.AssemblyInfo.cs
+  ExExtruturaSequencial.GlobalUsings.g.cs
+ ExExtruturaSequencial/ExExtruturaSequencial/Program.cs
+ Funções/Funções/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Funções.AssemblyInfo.cs
+  Funções.GlobalUsings.g.cs
+ Funções/Funções/Program.cs
+ Operadores aritmeticos/Operadores aritmeticos/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Operadores aritmeticos.AssemblyInfo.cs
+  Operadores aritmeticos.GlobalUsings.g.cs
+ Operadores aritmeticos/Operadores aritmeticos/Program.cs
+ OperadoresAtribuição.cs
+ OperadoresComparativos/OperadoresComparativos/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  OperadoresComparativos.AssemblyInfo.cs
+  OperadoresComparativos.GlobalUsings.g.cs
+ OperadoresComparativos/OperadoresComparativos/Program.cs
+ Operadoresdeatribuição/Operadoresdeatribuição/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Operadoresdeatribuição.AssemblyInfo.cs
+  Operadoresdeatribuição.GlobalUsings.g.cs
+ Operadoresdeatribuição/Operadoresdeatribuição/Program.cs
+ OperadoresLogicos/OperadoresLogicos/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  OperadoresLogicos.AssemblyInfo.cs
+  OperadoresLogicos.GlobalUsings.g.cs
+ OperadoresLogicos/OperadoresLogicos/Program.cs
+ PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  PrimeiroProjeto.AssemblyInfo.cs
+  PrimeiroProjeto.GlobalUsings.g.cs
+ PrimeiroProjeto/PrimeiroProjeto/Program.cs
+ Recap/Recap/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Recap.AssemblyInfo.cs
+  Recap.GlobalUsings.g.cs
+ Recap/Recap/Program.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/CriacaoDeMetodo/CriacaoDeMetodo/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ CriacaoDeMetodo.AssemblyInfo.cs
+ CriacaoDeMetodo.GlobalUsings.g.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/CriacaoDeMetodo/CriacaoDeMetodo/
+ Program.cs
+ Triangulo.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/ExerciciosClasses/ExerciciosClasses/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ ExerciciosClasses.AssemblyInfo.cs
+ ExerciciosClasses.GlobalUsings.g.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/ExerciciosClasses/ExerciciosClasses/
+ Pessoa.cs
+ Program.cs
+ Salario.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/ExerciciosFixacao/ExerciciosFixacao/
+ Aluno.cs
+ Funcionario.cs
+ obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosFixacao.AssemblyInfo.cs
+  ExerciciosFixacao.GlobalUsings.g.cs
+ Program.cs
+ Retangulo.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/ExMembrosEstaticos/ExMembrosEstaticos/
+ ConvesorDeMoeda.cs
+ obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExMembrosEstaticos.AssemblyInfo.cs
+  ExMembrosEstaticos.GlobalUsings.g.cs
+ Program.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/MembrosEstaticos/MembrosEstaticos/
+ Circulo.cs
+ obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  MembrosEstaticos.AssemblyInfo.cs
+  MembrosEstaticos.GlobalUsings.g.cs
+ Program.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/Resolvendo um problema sem POO/Resolvendo um problema sem POO/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ Resolvendo um problema sem POO.AssemblyInfo.cs
+ Resolvendo um problema sem POO.GlobalUsings.g.cs
+c# POO/Seção 3 - Classes, atributos, métodos, membros estáticos/
+ Resolvendo um problema sem POO/Resolvendo um problema sem POO/Program.cs
+ ResolvendoProblemaComPOO/ResolvendoProblemaComPOO/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ResolvendoProblemaComPOO.AssemblyInfo.cs
+  ResolvendoProblemaComPOO.GlobalUsings.g.cs
+ ResolvendoProblemaComPOO/ResolvendoProblemaComPOO/
+  Program.cs
+  Triangulo.cs
+ SegundoProblemaExemplo/SegundoProblemaExemplo/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  SegundoProblemaExemplo.AssemblyInfo.cs
+  SegundoProblemaExemplo.GlobalUsings.g.cs
+ SegundoProblemaExemplo/SegundoProblemaExemplo/
+  Produto.cs
+  Program.cs
+c# POO/Seção 4 - Construtores, palavra this, sobrecarga, encapsulamento/Construtores/Construtores/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ Construtores.AssemblyInfo.cs
+ Construtores.GlobalUsings.g.cs
+c# POO/Seção 4 - Construtores, palavra this, sobrecarga, encapsulamento/Construtores/Construtores/
+ Produto.cs
+ Program.cs
+c# POO/Seção 4 - Construtores, palavra this, sobrecarga, encapsulamento/ExercicioCapitulo/ExercicioCapitulo/
+ Conta.cs
+ obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioCapitulo.AssemblyInfo.cs
+  ExercicioCapitulo.GlobalUsings.g.cs
+ Program.cs
+c# POO/Seção 4 - Construtores, palavra this, sobrecarga, encapsulamento/ExerciciosDaIA/ExerciciosDaIA/
+ ItemInventario.cs
+ Nave.cs
+ obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosDaIA.AssemblyInfo.cs
+  ExerciciosDaIA.GlobalUsings.g.cs
+ Personagem.cs
+ Program.cs
+c# POO/Seção 5 - Comportamento de memória, arrays, listas/BoxingUnboxing/BoxingUnboxing/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ BoxingUnboxing.AssemblyInfo.cs
+ BoxingUnboxing.GlobalUsings.g.cs
+c# POO/Seção 5 - Comportamento de memória, arrays, listas/
+ BoxingUnboxing/BoxingUnboxing/Program.cs
+ Ex Lista/Ex Lista/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Ex Lista.AssemblyInfo.cs
+  Ex Lista.GlobalUsings.g.cs
+ Ex Lista/Ex Lista/Program.cs
+ ExFixacaoVetores/ExFixacaoVetores/
+  Estudante.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExFixacaoVetores.AssemblyInfo.cs
+   ExFixacaoVetores.GlobalUsings.g.cs
+  Program.cs
+ Exlista2/Exlista2/
+  Arma.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   Exlista2.AssemblyInfo.cs
+   Exlista2.GlobalUsings.g.cs
+  Produto.cs
+  Program.cs
+  Zumbi.cs
+ ExLIstaEmpregados/ExLIstaEmpregados/
+  Employers.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExLIstaEmpregados.AssemblyInfo.cs
+   ExLIstaEmpregados.GlobalUsings.g.cs
+  Program.cs
+ ExNullable/ExNullable/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExNullable.AssemblyInfo.cs
+  ExNullable.GlobalUsings.g.cs
+ ExNullable/ExNullable/Program.cs
+ ExParms/ExParms/
+  Jogador.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExParms.AssemblyInfo.cs
+   ExParms.GlobalUsings.g.cs
+  Program.cs
+  Situacao.cs
+ ExRefOut/ExRefOut/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExRefOut.AssemblyInfo.cs
+  ExRefOut.GlobalUsings.g.cs
+ ExRefOut/ExRefOut/
+  Porta.cs
+  Program.cs
+ ExStruct/ExStruct/
+  CorRGB.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExStruct.AssemblyInfo.cs
+   ExStruct.GlobalUsings.g.cs
+  Posicao3D.cs
+  Program.cs
+ ExVetoresClasse/ExVetoresClasse/
+  Arma.cs
+  Entidade.cs
+  Item.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExVetoresClasse.AssemblyInfo.cs
+   ExVetoresClasse.GlobalUsings.g.cs
+  Program.cs
+ foreacth/foreacth/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  foreacth.AssemblyInfo.cs
+  foreacth.GlobalUsings.g.cs
+ foreacth/foreacth/Program.cs
+ Listas/Listas/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Listas.AssemblyInfo.cs
+  Listas.GlobalUsings.g.cs
+ Listas/Listas/Program.cs
+ Matrizes/Matrizes/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Matrizes.AssemblyInfo.cs
+  Matrizes.GlobalUsings.g.cs
+ Matrizes/Matrizes/Program.cs
+ MatrizEx/MatrizEx/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  MatrizEx.AssemblyInfo.cs
+  MatrizEx.GlobalUsings.g.cs
+ MatrizEx/MatrizEx/Program.cs
+ MatrizEx2/MatrizEx2/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  MatrizEx2.AssemblyInfo.cs
+  MatrizEx2.GlobalUsings.g.cs
+ MatrizEx2/MatrizEx2/Program.cs
+ Nullable/Nullable/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Nullable.AssemblyInfo.cs
+  Nullable.GlobalUsings.g.cs
+ Nullable/Nullable/Program.cs
+ Params/Params/
+  Calculator.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   Params.AssemblyInfo.cs
+   Params.GlobalUsings.g.cs
+  Program.cs
+ Ref e out/Ref e out/
+  Calculator.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   Ref e out.AssemblyInfo.cs
+   Ref e out.GlobalUsings.g.cs
+  Program.cs
+ TipoReferenciaEValor/TipoReferenciaEValor/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  TipoReferenciaEValor.AssemblyInfo.cs
+  TipoReferenciaEValor.GlobalUsings.g.cs
+ TipoReferenciaEValor/TipoReferenciaEValor/
+  Point.cs
+  Program.cs
+ Vetores/Vetores/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Vetores.AssemblyInfo.cs
+  Vetores.GlobalUsings.g.cs
+ Vetores/Vetores/
+  Produto.cs
+  Program.cs
+c# POO/Seção 6 - Tópicos especiais em C# - PARTE 1/DateTime/DateTime/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ DateTime.AssemblyInfo.cs
+ DateTime.GlobalUsings.g.cs
+c# POO/Seção 6 - Tópicos especiais em C# - PARTE 1/
+ DateTime/DateTime/Program.cs
+ DateTimeKindEPadraoISO8601/DateTimeKindEPadraoISO8601/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  DateTimeKindEPadraoISO8601.AssemblyInfo.cs
+  DateTimeKindEPadraoISO8601.GlobalUsings.g.cs
+ DateTimeKindEPadraoISO8601/DateTimeKindEPadraoISO8601/Program.cs
+ DateTimeKindEPadraoISO8601Ex/DateTimeKindEPadraoISO8601Ex/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  DateTimeKindEPadraoISO8601Ex.AssemblyInfo.cs
+  DateTimeKindEPadraoISO8601Ex.GlobalUsings.g.cs
+ DateTimeKindEPadraoISO8601Ex/DateTimeKindEPadraoISO8601Ex/Program.cs
+ ExDateTIme/ExDateTIme/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExDateTIme.AssemblyInfo.cs
+  ExDateTIme.GlobalUsings.g.cs
+ ExDateTIme/ExDateTIme/Program.cs
+ ExExpressãoCondicionalTernaria/ExExpressãoCondicionalTernaria/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExExpressãoCondicionalTernaria.AssemblyInfo.cs
+  ExExpressãoCondicionalTernaria.GlobalUsings.g.cs
+ ExExpressãoCondicionalTernaria/ExExpressãoCondicionalTernaria/Program.cs
+ ExpressãoCondicionalTernaria/ExpressãoCondicionalTernaria/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExpressãoCondicionalTernaria.AssemblyInfo.cs
+  ExpressãoCondicionalTernaria.GlobalUsings.g.cs
+ ExpressãoCondicionalTernaria/ExpressãoCondicionalTernaria/Program.cs
+ ExString/ExString/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExString.AssemblyInfo.cs
+  ExString.GlobalUsings.g.cs
+ ExString/ExString/Program.cs
+ ExTimeSpan/ExTimeSpan/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExTimeSpan.AssemblyInfo.cs
+  ExTimeSpan.GlobalUsings.g.cs
+ ExTimeSpan/ExTimeSpan/Program.cs
+ FuncaoesInterresantesString/FuncaoesInterresantesString/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  FuncaoesInterresantesString.AssemblyInfo.cs
+  FuncaoesInterresantesString.GlobalUsings.g.cs
+ FuncaoesInterresantesString/FuncaoesInterresantesString/Program.cs
+ PropriedadesEOperacoesTimeSpan/PropriedadesEOperacoesTimeSpan/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  PropriedadesEOperacoesTimeSpan.AssemblyInfo.cs
+  PropriedadesEOperacoesTimeSpan.GlobalUsings.g.cs
+ PropriedadesEOperacoesTimeSpan/PropriedadesEOperacoesTimeSpan/Program.cs
+ PropriedadesEOperaçõesComDateTime/PropriedadesEOperaçõesComDateTime/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  PropriedadesEOperaçõesComDateTime.AssemblyInfo.cs
+  PropriedadesEOperaçõesComDateTime.GlobalUsings.g.cs
+ PropriedadesEOperaçõesComDateTime/PropriedadesEOperaçõesComDateTime/Program.cs
+ SwicthCase/SwicthCase/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  SwicthCase.AssemblyInfo.cs
+  SwicthCase.GlobalUsings.g.cs
+ SwicthCase/SwicthCase/Program.cs
+ UsandoTimeSpan/UsandoTimeSpan/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  UsandoTimeSpan.AssemblyInfo.cs
+  UsandoTimeSpan.GlobalUsings.g.cs
+ UsandoTimeSpan/UsandoTimeSpan/Program.cs
+ Var/Var/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Var.AssemblyInfo.cs
+  Var.GlobalUsings.g.cs
+ Var/Var/Program.cs
+c# POO/Seção 7 - Enumerações e composição/Enumeracoes/Enumeracoes/Entities/
+ Enums/OrderStatus.cs
+ Order.cs
+c# POO/Seção 7 - Enumerações e composição/Enumeracoes/Enumeracoes/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ Enumeracoes.AssemblyInfo.cs
+ Enumeracoes.GlobalUsings.g.cs
+c# POO/Seção 7 - Enumerações e composição/
+ Enumeracoes/Enumeracoes/Program.cs
+ ExComposicao/ExComposicao/Ex1/Class/
+  Guild.cs
+  Player.cs
+  Quest.cs
+ ExComposicao/ExComposicao/
+  Ex1/Enums/Rank.cs
+  Ex2/Class/
+   Carrier.cs
+   Delivery.cs
+   Truck.cs
+  Ex2/Enums/TruckType.cs
+  Ex3/Class/
+   Battery.cs
+   DeliveryItem.cs
+   Drone.cs
+  Ex3/Enums/DroneStatus.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExComposicao.AssemblyInfo.cs
+   ExComposicao.GlobalUsings.g.cs
+  Program.cs
+ ExContratos/ExContratos/Entities/Class/
+  Department.cs
+  HourContract.cs
+  Worker.cs
+ ExContratos/ExContratos/
+  Entities/Enuns/WorkerLevel.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExContratos.AssemblyInfo.cs
+   ExContratos.GlobalUsings.g.cs
+  Program.cs
+ ExEnumerators/ExEnumerators/Entities/
+  Drone.cs
+  Enums/
+   BossState.cs
+   CargoPriority.cs
+   DroneTask.cs
+ ExEnumerators/ExEnumerators/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExEnumerators.AssemblyInfo.cs
+  ExEnumerators.GlobalUsings.g.cs
+ ExEnumerators/ExEnumerators/Program.cs
+ ExercicioFinalComposicao/ExercicioFinalComposicao/Entites/Class/
+  Client.cs
+  Order.cs
+  OrderItem.cs
+  Product.cs
+ ExercicioFinalComposicao/ExercicioFinalComposicao/
+  Entites/Enuns/OrderStatus.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExercicioFinalComposicao.AssemblyInfo.cs
+   ExercicioFinalComposicao.GlobalUsings.g.cs
+  Program.cs
+ ExercicioStringBuilder/ExercicioStringBuilde/Entities/
+  Comment.cs
+  Post.cs
+ ExercicioStringBuilder/ExercicioStringBuilde/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioStringBuilde.AssemblyInfo.cs
+  ExercicioStringBuilde.GlobalUsings.g.cs
+ ExercicioStringBuilder/ExercicioStringBuilde/Program.cs
+ ListaExComposicao/ListaExComposicao/Ex1/Entities/Class/
+  CastAction.cs
+  Character.cs
+  CombatEncounter.cs
+  Spell.cs
+ ListaExComposicao/ListaExComposicao/
+  Ex1/Entities/Enuns/CombatStatus.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ListaExComposicao.AssemblyInfo.cs
+   ListaExComposicao.GlobalUsings.g.cs
+  Program.cs
+ ListaStringBuilder/ListaStringBuilder/Entites/Class/
+  Pallet.cs
+  ShippingManifest.cs
+ ListaStringBuilder/ListaStringBuilder/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ListaStringBuilder.AssemblyInfo.cs
+  ListaStringBuilder.GlobalUsings.g.cs
+ ListaStringBuilder/ListaStringBuilder/Program.cs
+c# POO/Seção 8 - Herança e polimorfismo/ClasseAbastrataExercicio/ClasseAbastrataExercicio/Ex1/Entites/Class/
+ Assassino.cs
+ Atirador.cs
+ Campeao.cs
+c# POO/Seção 8 - Herança e polimorfismo/ClasseAbastrataExercicio/ClasseAbastrataExercicio/Ex2/Entites/Class/
+ Helicoptero.cs
+ Moto.cs
+ Veiculo.cs
+c# POO/Seção 8 - Herança e polimorfismo/ClasseAbastrataExercicio/ClasseAbastrataExercicio/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ ClasseAbastrataExercicio.AssemblyInfo.cs
+ ClasseAbastrataExercicio.GlobalUsings.g.cs
+c# POO/Seção 8 - Herança e polimorfismo/
+ ClasseAbastrataExercicio/ClasseAbastrataExercicio/Program.cs
+ ClassesAbstratas/ClassesAbstratas/Entites/
+  Account.cs
+  BusinessAccount.cs
+  SavingsAccount.cs
+ ClassesAbstratas/ClassesAbstratas/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ClassesAbstratas.AssemblyInfo.cs
+  ClassesAbstratas.GlobalUsings.g.cs
+ ClassesAbstratas/ClassesAbstratas/Program.cs
+ ClassesEMetodosSelados/ClassesEMetodosSelados/Entites/
+  Account.cs
+  BusinessAccount.cs
+  SavingsAccount.cs
+  SavingsAccountPlus.cs
+ ClassesEMetodosSelados/ClassesEMetodosSelados/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ClassesEMetodosSelados.AssemblyInfo.cs
+  ClassesEMetodosSelados.GlobalUsings.g.cs
+ ClassesEMetodosSelados/ClassesEMetodosSelados/Program.cs
+ ExercicioPropostoMetodoAbstrato/ExercicioPropostoMetodoAbstrato/Entites/
+  Account.cs
+  Company.cs
+  NaturalPerson.cs
+ ExercicioPropostoMetodoAbstrato/ExercicioPropostoMetodoAbstrato/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioPropostoMetodoAbstrato.AssemblyInfo.cs
+  ExercicioPropostoMetodoAbstrato.GlobalUsings.g.cs
+ ExercicioPropostoMetodoAbstrato/ExercicioPropostoMetodoAbstrato/Program.cs
+ ExercicioResolvido/ExercicioResolvido/Entites/Class/
+  Employee.cs
+  OutsourcedEmployee.cs
+ ExercicioResolvido/ExercicioResolvido/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioResolvido.AssemblyInfo.cs
+  ExercicioResolvido.GlobalUsings.g.cs
+ ExercicioResolvido/ExercicioResolvido/Program.cs
+ ExercicioResolvidoMetodoAbstrato/ExercicioResolvidoMetodoAbstrato/Entites/Class/
+  Circle.cs
+  Rectangle.cs
+  Shape.cs
+ ExercicioResolvidoMetodoAbstrato/ExercicioResolvidoMetodoAbstrato/
+  Entites/Enuns/Color.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExercicioResolvidoMetodoAbstrato.AssemblyInfo.cs
+   ExercicioResolvidoMetodoAbstrato.GlobalUsings.g.cs
+  Program.cs
+ ExerciciosHerança/ExerciciosHerança/Ex1/Entites/Class/
+  Enemy.cs
+  Entity.cs
+ ExerciciosHerança/ExerciciosHerança/Ex2/Entites/Class/
+  Armor.cs
+  Item.cs
+ ExerciciosHerança/ExerciciosHerança/Ex3/Entites/Class/
+  Champion.cs
+  Tank.cs
+ ExerciciosHerança/ExerciciosHerança/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExerciciosHerança.AssemblyInfo.cs
+  ExerciciosHerança.GlobalUsings.g.cs
+ ExerciciosHerança/ExerciciosHerança/Program.cs
+ ExercicoFixacaoHerancaPolimorfismo/ExercicoFixacaoHerancaPolimorfismo/Entites/
+  ImportedProduct.cs
+  Product.cs
+  UsedProduct.cs
+ ExercicoFixacaoHerancaPolimorfismo/ExercicoFixacaoHerancaPolimorfismo/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicoFixacaoHerancaPolimorfismo.AssemblyInfo.cs
+  ExercicoFixacaoHerancaPolimorfismo.GlobalUsings.g.cs
+ ExercicoFixacaoHerancaPolimorfismo/ExercicoFixacaoHerancaPolimorfismo/Program.cs
+ ExSobreposicao/ExSobreposicao/Ex 1/Entites/Class/
+  Campeao.cs
+  Mago.cs
+  Suporte.cs
+ ExSobreposicao/ExSobreposicao/Ex 2/Entites/Class/
+  Arma.cs
+  EscopetaCanoDuplo.cs
+ ExSobreposicao/ExSobreposicao/Ex 3/Entites/Class/
+  Inimigo.cs
+  InimigoMutante.cs
+ ExSobreposicao/ExSobreposicao/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExSobreposicao.AssemblyInfo.cs
+  ExSobreposicao.GlobalUsings.g.cs
+ ExSobreposicao/ExSobreposicao/Program.cs
+ Herança/Herança/Entites/
+  Account.cs
+  BusinessAccount.cs
+ Herança/Herança/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  Herança.AssemblyInfo.cs
+  Herança.GlobalUsings.g.cs
+ Herança/Herança/Program.cs
+ ListaExerciciosPolimorfismo/ListaExerciciosPolimorfismo/Ex 1/Entites/Class/
+  Arma.cs
+  Erva.cs
+  Item.cs
+ ListaExerciciosPolimorfismo/ListaExerciciosPolimorfismo/Ex 2/Entites/Class/
+  Magia.cs
+  MagiaDeFogo.cs
+  Necromancia.cs
+ ListaExerciciosPolimorfismo/ListaExerciciosPolimorfismo/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ListaExerciciosPolimorfismo.AssemblyInfo.cs
+  ListaExerciciosPolimorfismo.GlobalUsings.g.cs
+ ListaExerciciosPolimorfismo/ListaExerciciosPolimorfismo/Program.cs
+ MetodoAbrastato/MetodoAbrastato/Entites/
+  Account.cs
+  BusinessAccount.cs
+  SavingsAccount.cs
+ MetodoAbrastato/MetodoAbrastato/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  MetodoAbrastato.AssemblyInfo.cs
+  MetodoAbrastato.GlobalUsings.g.cs
+ MetodoAbrastato/MetodoAbrastato/Program.cs
+ SobreposicaoPalavrasVirtualOverrideBase/SobreposicaoPalavrasVirtualOverrideBase/Entites/
+  Account.cs
+  BusinessAccount.cs
+  SavingsAccount.cs
+ SobreposicaoPalavrasVirtualOverrideBase/SobreposicaoPalavrasVirtualOverrideBase/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  SobreposicaoPalavrasVirtualOverrideBase.AssemblyInfo.cs
+  SobreposicaoPalavrasVirtualOverrideBase.GlobalUsings.g.cs
+ SobreposicaoPalavrasVirtualOverrideBase/SobreposicaoPalavrasVirtualOverrideBase/Program.cs
+ UpcastingDownCasting/UpcastingDownCasting/Entites/
+  Account.cs
+  BusinessAccount.cs
+  SavingsAccount.cs
+ UpcastingDownCasting/UpcastingDownCasting/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  UpcastingDownCasting.AssemblyInfo.cs
+  UpcastingDownCasting.GlobalUsings.g.cs
+ UpcastingDownCasting/UpcastingDownCasting/Program.cs
+ UpDownCastingExercicios/UpDownCastingExercicios/Ex1/Entites/Class/
+  Cacodemon.cs
+  Entidade.cs
+  Zumbi.cs
+ UpDownCastingExercicios/UpDownCastingExercicios/Ex2/Entites/Class/
+  Arma.cs
+  Consumivel.cs
+  Item.cs
+ UpDownCastingExercicios/UpDownCastingExercicios/Ex3/Entites/Class/
+  Habilidade.cs
+  Magia.cs
+ UpDownCastingExercicios/UpDownCastingExercicios/Ex4/Entites/Class/
+  NPC.cs
+  QuestGiver.cs
+  Vendedor.cs
+ UpDownCastingExercicios/UpDownCastingExercicios/Ex5/Entites/Class/
+  Moto.cs
+  Tanque.cs
+  Veiculo.cs
+ UpDownCastingExercicios/UpDownCastingExercicios/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  UpDownCastingExercicios.AssemblyInfo.cs
+  UpDownCastingExercicios.GlobalUsings.g.cs
+ UpDownCastingExercicios/UpDownCastingExercicios/Program.cs
+c# POO/Seção 9 - Tratamento de exceções/BlocoFinally/BlocoFinally/obj/Debug/net8.0/
+ .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+ BlocoFinally.AssemblyInfo.cs
+ BlocoFinally.GlobalUsings.g.cs
+c# POO/Seção 9 - Tratamento de exceções/
+ BlocoFinally/BlocoFinally/Program.cs
+ ExcecoesPersonalizadas/ExcecoesPersonalizadas/Entites/
+  Exceptions/DomainException.cs
+  Reservation.cs
+ ExcecoesPersonalizadas/ExcecoesPersonalizadas/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExcecoesPersonalizadas.AssemblyInfo.cs
+  ExcecoesPersonalizadas.GlobalUsings.g.cs
+ ExcecoesPersonalizadas/ExcecoesPersonalizadas/Program.cs
+ ExercicioProposto/ExercicioProposto/Entites/
+  Class/Account.cs
+  Exceptions/ExceptionDomain.cs
+ ExercicioProposto/ExercicioProposto/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExercicioProposto.AssemblyInfo.cs
+  ExercicioProposto.GlobalUsings.g.cs
+ ExercicioProposto/ExercicioProposto/Program.cs
+ ExExceptionsPersonalizadas/ExExceptionsPersonalizadas/Entites/Class/
+  Hypercar.cs
+  Package.cs
+  TankBuild.cs
+ ExExceptionsPersonalizadas/ExExceptionsPersonalizadas/
+  Entites/Exceptions/ExceptionDomain.cs
+  obj/Debug/net8.0/
+   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+   ExExceptionsPersonalizadas.AssemblyInfo.cs
+   ExExceptionsPersonalizadas.GlobalUsings.g.cs
+  Program.cs
+ ExTryCatch/ExTryCatch/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  ExTryCatch.AssemblyInfo.cs
+  ExTryCatch.GlobalUsings.g.cs
+ ExTryCatch/ExTryCatch/Program.cs
+ FinallyEx/FinallyEx/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  FinallyEx.AssemblyInfo.cs
+  FinallyEx.GlobalUsings.g.cs
+ FinallyEx/FinallyEx/Program.cs
+ TryCatch/TryCatch/obj/Debug/net8.0/
+  .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+  TryCatch.AssemblyInfo.cs
+  TryCatch.GlobalUsings.g.cs
+ TryCatch/TryCatch/Program.cs
+obj/Debug/net9.0/
+ .NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+ C#.AssemblyInfo.cs
+ C#.GlobalUsings.g.cs
+Program.cs
+
+[metadataReferences]
+<NUGET>/microsoft.netcore.app.ref/9.0.14/ref/net9.0/
+ Microsoft.CSharp.dll
+ Microsoft.VisualBasic.Core.dll
+ Microsoft.VisualBasic.dll
+ Microsoft.Win32.Primitives.dll
+ Microsoft.Win32.Registry.dll
+ mscorlib.dll
+ netstandard.dll
+ System.AppContext.dll
+ System.Buffers.dll
+ System.Collections.Concurrent.dll
+ System.Collections.dll
+ System.Collections.Immutable.dll
+ System.Collections.NonGeneric.dll
+ System.Collections.Specialized.dll
+ System.ComponentModel.Annotations.dll
+ System.ComponentModel.DataAnnotations.dll
+ System.ComponentModel.dll
+ System.ComponentModel.EventBasedAsync.dll
+ System.ComponentModel.Primitives.dll
+ System.ComponentModel.TypeConverter.dll
+ System.Configuration.dll
+ System.Console.dll
+ System.Core.dll
+ System.Data.Common.dll
+ System.Data.DataSetExtensions.dll
+ System.Data.dll
+ System.Diagnostics.Contracts.dll
+ System.Diagnostics.Debug.dll
+ System.Diagnostics.DiagnosticSource.dll
+ System.Diagnostics.FileVersionInfo.dll
+ System.Diagnostics.Process.dll
+ System.Diagnostics.StackTrace.dll
+ System.Diagnostics.TextWriterTraceListener.dll
+ System.Diagnostics.Tools.dll
+ System.Diagnostics.TraceSource.dll
+ System.Diagnostics.Tracing.dll
+ System.dll
+ System.Drawing.dll
+ System.Drawing.Primitives.dll
+ System.Dynamic.Runtime.dll
+ System.Formats.Asn1.dll
+ System.Formats.Tar.dll
+ System.Globalization.Calendars.dll
+ System.Globalization.dll
+ System.Globalization.Extensions.dll
+ System.IO.Compression.Brotli.dll
+ System.IO.Compression.dll
+ System.IO.Compression.FileSystem.dll
+ System.IO.Compression.ZipFile.dll
+ System.IO.dll
+ System.IO.FileSystem.AccessControl.dll
+ System.IO.FileSystem.dll
+ System.IO.FileSystem.DriveInfo.dll
+ System.IO.FileSystem.Primitives.dll
+ System.IO.FileSystem.Watcher.dll
+ System.IO.IsolatedStorage.dll
+ System.IO.MemoryMappedFiles.dll
+ System.IO.Pipelines.dll
+ System.IO.Pipes.AccessControl.dll
+ System.IO.Pipes.dll
+ System.IO.UnmanagedMemoryStream.dll
+ System.Linq.dll
+ System.Linq.Expressions.dll
+ System.Linq.Parallel.dll
+ System.Linq.Queryable.dll
+ System.Memory.dll
+ System.Net.dll
+ System.Net.Http.dll
+ System.Net.Http.Json.dll
+ System.Net.HttpListener.dll
+ System.Net.Mail.dll
+ System.Net.NameResolution.dll
+ System.Net.NetworkInformation.dll
+ System.Net.Ping.dll
+ System.Net.Primitives.dll
+ System.Net.Quic.dll
+ System.Net.Requests.dll
+ System.Net.Security.dll
+ System.Net.ServicePoint.dll
+ System.Net.Sockets.dll
+ System.Net.WebClient.dll
+ System.Net.WebHeaderCollection.dll
+ System.Net.WebProxy.dll
+ System.Net.WebSockets.Client.dll
+ System.Net.WebSockets.dll
+ System.Numerics.dll
+ System.Numerics.Vectors.dll
+ System.ObjectModel.dll
+ System.Reflection.DispatchProxy.dll
+ System.Reflection.dll
+ System.Reflection.Emit.dll
+ System.Reflection.Emit.ILGeneration.dll
+ System.Reflection.Emit.Lightweight.dll
+ System.Reflection.Extensions.dll
+ System.Reflection.Metadata.dll
+ System.Reflection.Primitives.dll
+ System.Reflection.TypeExtensions.dll
+ System.Resources.Reader.dll
+ System.Resources.ResourceManager.dll
+ System.Resources.Writer.dll
+ System.Runtime.CompilerServices.Unsafe.dll
+ System.Runtime.CompilerServices.VisualC.dll
+ System.Runtime.dll
+ System.Runtime.Extensions.dll
+ System.Runtime.Handles.dll
+ System.Runtime.InteropServices.dll
+ System.Runtime.InteropServices.JavaScript.dll
+ System.Runtime.InteropServices.RuntimeInformation.dll
+ System.Runtime.Intrinsics.dll
+ System.Runtime.Loader.dll
+ System.Runtime.Numerics.dll
+ System.Runtime.Serialization.dll
+ System.Runtime.Serialization.Formatters.dll
+ System.Runtime.Serialization.Json.dll
+ System.Runtime.Serialization.Primitives.dll
+ System.Runtime.Serialization.Xml.dll
+ System.Security.AccessControl.dll
+ System.Security.Claims.dll
+ System.Security.Cryptography.Algorithms.dll
+ System.Security.Cryptography.Cng.dll
+ System.Security.Cryptography.Csp.dll
+ System.Security.Cryptography.dll
+ System.Security.Cryptography.Encoding.dll
+ System.Security.Cryptography.OpenSsl.dll
+ System.Security.Cryptography.Primitives.dll
+ System.Security.Cryptography.X509Certificates.dll
+ System.Security.dll
+ System.Security.Principal.dll
+ System.Security.Principal.Windows.dll
+ System.Security.SecureString.dll
+ System.ServiceModel.Web.dll
+ System.ServiceProcess.dll
+ System.Text.Encoding.CodePages.dll
+ System.Text.Encoding.dll
+ System.Text.Encoding.Extensions.dll
+ System.Text.Encodings.Web.dll
+ System.Text.Json.dll
+ System.Text.RegularExpressions.dll
+ System.Threading.Channels.dll
+ System.Threading.dll
+ System.Threading.Overlapped.dll
+ System.Threading.Tasks.Dataflow.dll
+ System.Threading.Tasks.dll
+ System.Threading.Tasks.Extensions.dll
+ System.Threading.Tasks.Parallel.dll
+ System.Threading.Thread.dll
+ System.Threading.ThreadPool.dll
+ System.Threading.Timer.dll
+ System.Transactions.dll
+ System.Transactions.Local.dll
+ System.ValueTuple.dll
+ System.Web.dll
+ System.Web.HttpUtility.dll
+ System.Windows.dll
+ System.Xml.dll
+ System.Xml.Linq.dll
+ System.Xml.ReaderWriter.dll
+ System.Xml.Serialization.dll
+ System.Xml.XDocument.dll
+ System.Xml.XmlDocument.dll
+ System.Xml.XmlSerializer.dll
+ System.Xml.XPath.dll
+ System.Xml.XPath.XDocument.dll
+ WindowsBase.dll
+
+[analyzerReferences]
+<DOTNET>/sdk/10.0.201/Sdks/Microsoft.NET.Sdk/analyzers/
+ Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+ Microsoft.CodeAnalysis.NetAnalyzers.dll
+<NUGET>/microsoft.netcore.app.ref/9.0.14/analyzers/dotnet/cs/
+ Microsoft.Interop.ComInterfaceGenerator.dll
+ Microsoft.Interop.JavaScript.JSImportGenerator.dll
+ Microsoft.Interop.LibraryImportGenerator.dll
+ Microsoft.Interop.SourceGeneration.dll
+ System.Text.Json.SourceGeneration.dll
+ System.Text.RegularExpressions.Generator.dll
+
+[analyzerConfigFiles]
+<DOTNET>/sdk/10.0.201/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_9_default.globalconfig
+obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+
+[dynamicFiles]
+c# POO/Seção 2 - Recapitulação de Lógica de Programação usando C#/Course/Course/Pages/
+ Error.cshtml
+ Index.cshtml
+ Privacy.cshtml
+ Shared/
+  _Layout.cshtml
+  _ValidationScriptsPartial.cshtml
+ _ViewImports.cshtml
+ _ViewStart.cshtml
