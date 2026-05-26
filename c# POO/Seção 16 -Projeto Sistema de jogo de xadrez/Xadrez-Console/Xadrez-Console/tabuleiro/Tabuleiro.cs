@@ -20,10 +20,8 @@ namespace tabuleiro
             _pecas = new Peca[linha,coluna];
         }
 
-        public Peca peca(int linha,int coluna)
-        {
-            return  _pecas[linha,coluna];
-        }
+        public Peca peca(int linha,int coluna) => _pecas[linha,coluna];
+        
         public bool ExistePeca(Posicao pos) 
         {
             ValidarPosicao(pos);
@@ -36,6 +34,14 @@ namespace tabuleiro
             if (ExistePeca(pos)) { throw new TabuleiroException("Já existe uma peça nessa posição"); }
             _pecas[pos.Linha,pos.Coluna] = p;
             p.Posicao = pos;
+        }
+        public Peca RetirarPeca(Posicao pos)
+        {
+            if (peca(pos) == null) { return null; }
+            Peca aux = peca(pos);
+            aux.Posicao = pos;
+            _pecas[pos.Linha, pos.Coluna] = null;
+            return aux;
         }
         public bool PosicaoValida(Posicao pos)
         {
