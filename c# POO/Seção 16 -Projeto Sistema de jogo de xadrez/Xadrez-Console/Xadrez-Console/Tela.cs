@@ -6,7 +6,7 @@ namespace Xadrez_Console
 {
     class Tela
     {
-        public static void ImprimirPartida(PartidaDeXadrez partida) 
+        public static void ImprimirPartida(PartidaDeXadrez partida)
         {
             ImprimirTabuleiro(partida.Tab);
             Console.WriteLine();
@@ -14,17 +14,21 @@ namespace Xadrez_Console
             Console.WriteLine();
             Console.WriteLine($"Turno: {partida.Turno}");
             Console.WriteLine($"Aguardando jogada: {partida.JogadorAtual}");
+            if (partida.Xeque)
+            {
+                Console.WriteLine("XEQUE!");
+            }
         }
         public static void ImprimirPecasCapturadas(PartidaDeXadrez partida) 
         {
             Console.WriteLine("Peças capturadas: ");
             Console.Write($"Brancas: ");
-            ImprimirConjunto(partida.pecasCapturadas(Cor.Branca));
+            ImprimirConjunto(partida.PecasCapturadas(Cor.Branca));
             Console.WriteLine();
             Console.Write($"Pretas: ");
             ConsoleColor aux = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.Yellow;
-            ImprimirConjunto(partida.pecasCapturadas(Cor.Preta));
+            ImprimirConjunto(partida.PecasCapturadas(Cor.Preta));
             Console.ForegroundColor = aux;
             Console.WriteLine();
         }
