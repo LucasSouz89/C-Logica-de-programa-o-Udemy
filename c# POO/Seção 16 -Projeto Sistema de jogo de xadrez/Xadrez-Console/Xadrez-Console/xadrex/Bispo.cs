@@ -30,7 +30,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha - 1, Posicao.Coluna + 1);
+                pos.DefinirValores(pos.Linha - 1, pos.Coluna + 1);
             }
 
             //SE
@@ -42,7 +42,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha + 1, Posicao.Coluna + 1);
+                pos.DefinirValores(pos.Linha + 1, pos.Coluna + 1);
             }
 
             //SO
@@ -54,7 +54,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha + 1, Posicao.Coluna - 1);
+                pos.DefinirValores(pos.Linha + 1, pos.Coluna - 1);
             }
 
             //NO
@@ -66,7 +66,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha -1, Posicao.Coluna -1);
+                pos.DefinirValores(pos.Linha -1, pos.Coluna -1);
             }
             return mat;
         }

@@ -4,13 +4,19 @@ namespace xadrex
 {
     class Rei : Peca
     {
-        public Rei(Tabuleiro tab, Cor cor) : base(tab,cor) 
+        private PartidaDeXadrez _partida;
+        public Rei(Tabuleiro tab, Cor cor,PartidaDeXadrez partida) : base(tab,cor) 
         {
-
+            _partida = partida;
         }
         public override string ToString()
         {
             return "R";
+        }
+        private bool TesteTorreParaRoque(Posicao pos)
+        {
+            Peca p = Tab.peca(pos);
+            return p != null && p is Torre && p.Cor == Cor && QteMovimentos == 0;
         }
         private bool PodeMover(Posicao pos)
         {
@@ -68,6 +74,28 @@ namespace xadrex
             {
                 mat[pos.Linha, pos.Coluna] = true;
             }
+            // #Jogada especial roque
+            if(QteMovimentos == 0 && !_partida.Xeque)
+            {
+                //#Jogadaespecial roque pequeno
+                Posicao posT1 = new Posicao(Posicao.Linha, Posicao.Coluna + 3);
+                if (TesteTorreParaRoque(posT1))
+                {
+                    Posicao p1 = new Posicao(Posicao.Linha, Posicao.Coluna + 1);
+                    Posicao p2 = new Posicao(Posicao.Linha, Posicao.Coluna + 2);
+                    if(Tab.peca(p1) == null &&  Tab.peca(p2) == null) { mat[Posicao.Linha,Posicao.Coluna +2] = true; }
+                }
+                //#Jogadaespecial roque grande
+                Posicao posT2 = new Posicao(Posicao.Linha, Posicao.Coluna - 4);
+                if (TesteTorreParaRoque(posT2))
+                {
+                    Posicao p1 = new Posicao(Posicao.Linha, Posicao.Coluna - 1);
+                    Posicao p2 = new Posicao(Posicao.Linha, Posicao.Coluna -2);
+                    Posicao p3 = new Posicao(Posicao.Linha, Posicao.Coluna - 3);
+                    if (Tab.peca(p1) == null &&  Tab.peca(p2) == null && Tab.peca(p3) == null) { mat[Posicao.Linha,Posicao.Coluna -2] = true; }
+                }
+            }
+
             return mat;
         }
     }

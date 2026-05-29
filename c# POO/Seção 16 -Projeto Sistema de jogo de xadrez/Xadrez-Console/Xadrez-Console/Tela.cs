@@ -78,6 +78,7 @@ namespace Xadrez_Console
                     ImprimirPeca(tab.peca(i, j));
                 }
                 Console.WriteLine();
+                Console.BackgroundColor = fundoOriginal;
             }
             Console.WriteLine("  a b c d e f g h".ToUpper());
             Console.BackgroundColor = fundoOriginal;

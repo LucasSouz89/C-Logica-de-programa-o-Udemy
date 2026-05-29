@@ -30,7 +30,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha - 1, Posicao.Coluna + 1);
+                pos.DefinirValores(pos.Linha - 1, pos.Coluna + 1);
             }
 
             //SE
@@ -42,7 +42,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha + 1, Posicao.Coluna + 1);
+                pos.DefinirValores(pos.Linha + 1, pos.Coluna + 1);
             }
 
             //SO
@@ -54,7 +54,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha + 1, Posicao.Coluna - 1);
+                pos.DefinirValores(pos.Linha + 1, pos.Coluna - 1);
             }
 
             //NO
@@ -66,7 +66,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha -1, Posicao.Coluna -1);
+                pos.DefinirValores(pos.Linha -1, pos.Coluna -1);
             }
             //Esquerda
             pos.DefinirValores(Posicao.Linha, Posicao.Coluna - 1);
@@ -77,7 +77,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha , Posicao.Coluna - 1);
+                pos.DefinirValores(pos.Linha , pos.Coluna - 1);
             }
             //Direita
             pos.DefinirValores(Posicao.Linha, Posicao.Coluna + 1);
@@ -88,7 +88,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha, Posicao.Coluna + 1);
+                pos.DefinirValores(pos.Linha, pos.Coluna + 1);
             }
             //Abaixo
             pos.DefinirValores(Posicao.Linha + 1, Posicao.Coluna);
@@ -99,7 +99,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha + 1, Posicao.Coluna);
+                pos.DefinirValores(pos.Linha + 1, pos.Coluna);
             }
             //Cima
             pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna);
@@ -110,7 +110,7 @@ namespace xadrex
                 {
                     break;
                 }
-                pos.DefinirValores(pos.Linha - 1, Posicao.Coluna);
+                pos.DefinirValores(pos.Linha - 1, pos.Coluna);
             }
             return mat;
         }
