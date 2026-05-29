@@ -1,6 +1,6 @@
 ﻿using tabuleiro;
 
-namespace tabuleiro
+namespace xadrex
 {
     sealed class Torre : Peca
     {
