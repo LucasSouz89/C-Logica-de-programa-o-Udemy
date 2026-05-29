@@ -23,7 +23,7 @@ namespace xadrex
 
             //NE
             pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna + 1);
-            while (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
+            while (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
@@ -35,7 +35,7 @@ namespace xadrex
 
             //SE
             pos.DefinirValores(Posicao.Linha + 1, Posicao.Coluna + 1);
-            while (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
+            while (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
@@ -47,7 +47,7 @@ namespace xadrex
 
             //SO
             pos.DefinirValores(Posicao.Linha + 1, Posicao.Coluna - 1);
-            while (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
+            while (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
@@ -59,7 +59,7 @@ namespace xadrex
 
             //NO
             pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna -1);
-            while (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
+            while (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
@@ -70,7 +70,7 @@ namespace xadrex
             }
             //Esquerda
             pos.DefinirValores(Posicao.Linha, Posicao.Coluna - 1);
-            while (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
+            while (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
@@ -81,7 +81,7 @@ namespace xadrex
             }
             //Direita
             pos.DefinirValores(Posicao.Linha, Posicao.Coluna + 1);
-            while (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
+            while (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
@@ -92,7 +92,7 @@ namespace xadrex
             }
             //Abaixo
             pos.DefinirValores(Posicao.Linha + 1, Posicao.Coluna);
-            while (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
+            while (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
@@ -103,7 +103,7 @@ namespace xadrex
             }
             //Cima
             pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna);
-            while (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)
+            while (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
                 if (Tab.peca(pos) != null && Tab.peca(pos).Cor != Cor)

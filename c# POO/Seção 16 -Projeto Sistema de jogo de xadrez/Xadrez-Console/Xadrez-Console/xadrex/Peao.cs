@@ -33,9 +33,9 @@ namespace xadrex
                 {
                     mat[pos.Linha, pos.Coluna] = true;
                 }
-                
+                Posicao p2 = new Posicao(Posicao.Linha - 1, Posicao.Coluna);
                 pos.DefinirValores(Posicao.Linha - 2, Posicao.Coluna);
-                if (Tab.PosicaoValida(pos) && Livre(pos) && QteMovimentos == 0)
+                if (Tab.PosicaoValida(pos) && Livre(pos) && Tab.PosicaoValida(p2) && Livre(p2) && QteMovimentos == 0)
                 {
                     mat[pos.Linha, pos.Coluna] = true;
                 }
@@ -60,7 +60,7 @@ namespace xadrex
                 {
                     mat[pos.Linha, pos.Coluna] = true;
                 }
-
+                Posicao p2 = new Posicao(Posicao.Linha + 1, Posicao.Coluna);
                 pos.DefinirValores(Posicao.Linha + 2, Posicao.Coluna);
                 if (Tab.PosicaoValida(pos) && Livre(pos) && QteMovimentos == 0)
                 {

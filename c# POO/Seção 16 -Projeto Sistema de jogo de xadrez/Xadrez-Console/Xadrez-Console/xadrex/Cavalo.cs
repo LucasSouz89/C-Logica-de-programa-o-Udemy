@@ -29,32 +29,32 @@ namespace xadrex
                 mat[pos.Linha, pos.Coluna] = true;
             }
 
-            pos.DefinirValores(pos.Linha - 2, Posicao.Coluna -1);
+            pos.DefinirValores(Posicao.Linha - 2, Posicao.Coluna -1);
             if (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
             }
-            pos.DefinirValores(pos.Linha - 2, Posicao.Coluna + 1);
+            pos.DefinirValores(Posicao.Linha - 2, Posicao.Coluna + 1);
             if (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
             }
-            pos.DefinirValores(pos.Linha - 1, Posicao.Coluna +2);
+            pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna +2);
             if (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
             }
-            pos.DefinirValores(pos.Linha + 2, Posicao.Coluna + 1);
+            pos.DefinirValores(Posicao.Linha + 2, Posicao.Coluna + 1);
             if (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
             }
-            pos.DefinirValores(pos.Linha + 2, Posicao.Coluna - 1);
+            pos.DefinirValores(Posicao.Linha + 2, Posicao.Coluna - 1);
             if (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
             }
-            pos.DefinirValores(pos.Linha +1, Posicao.Coluna - 2);
+            pos.DefinirValores(Posicao.Linha +1, Posicao.Coluna - 2);
             if (Tab.PosicaoValida(pos) && PodeMover(pos))
             {
                 mat[pos.Linha, pos.Coluna] = true;
