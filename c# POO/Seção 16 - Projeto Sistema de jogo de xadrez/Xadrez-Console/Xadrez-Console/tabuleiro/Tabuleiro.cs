@@ -39,7 +39,7 @@ namespace tabuleiro
         {
             if (peca(pos) == null) { return null; }
             Peca aux = peca(pos);
-            aux.Posicao = pos;
+            aux.Posicao = null;
             _pecas[pos.Linha, pos.Coluna] = null;
             return aux;
         }
